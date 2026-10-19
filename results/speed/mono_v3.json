@@ -1,0 +1,71 @@
+{
+ "idle": {
+  "VDD_GPU_SOC_mW": 4593.0,
+  "VDD_CPU_CV_mW": 1224.8347826086956,
+  "VIN_SYS_5V0_mW": 4391.886956521739,
+  "SOC_mW": 5817.834782608696,
+  "gpu_util": 0.0
+ },
+ "rows": [
+  {
+   "gpu_ms_median": 33.1777,
+   "gpu_ms_p90": 33.51923,
+   "latency_ms_median": 33.1777,
+   "throughput_fps": 30.0967,
+   "n": 604,
+   "VDD_GPU_SOC_mW": 53992.84782608696,
+   "VDD_CPU_CV_mW": 2644.945652173913,
+   "VIN_SYS_5V0_mW": 9471.619565217392,
+   "SOC_mW": 56637.79347826087,
+   "gpu_util": 95.75877192982456,
+   "method": "da3metric_large_350x504",
+   "dyn_energy_mJ": 1688.5558448485108,
+   "dyn_energy_sys_mJ": 168.78038484935735
+  },
+  {
+   "gpu_ms_median": 72.60915,
+   "gpu_ms_p90": 72.688,
+   "latency_ms_median": 72.60915,
+   "throughput_fps": 13.7707,
+   "n": 278,
+   "VDD_GPU_SOC_mW": 41267.79120879121,
+   "VDD_CPU_CV_mW": 2647.978021978022,
+   "VIN_SYS_5V0_mW": 10001.54945054945,
+   "SOC_mW": 43915.769230769234,
+   "gpu_util": 96.94690265486726,
+   "method": "moge2_vits_700x1008",
+   "dyn_energy_mJ": 2766.593887613595,
+   "dyn_energy_sys_mJ": 407.3621888522523
+  },
+  {
+   "gpu_ms_median": 102.628,
+   "gpu_ms_p90": 102.8468,
+   "latency_ms_median": 102.628,
+   "throughput_fps": 9.74236,
+   "n": 197,
+   "VDD_GPU_SOC_mW": 43990.532608695656,
+   "VDD_CPU_CV_mW": 2647.9510869565215,
+   "VIN_SYS_5V0_mW": 9717.58152173913,
+   "SOC_mW": 46638.483695652176,
+   "gpu_util": 96.38157894736842,
+   "method": "moge2_vitb_700x1008",
+   "dyn_energy_mJ": 4190.016475786511,
+   "dyn_energy_sys_mJ": 546.6534356375038
+  },
+  {
+   "gpu_ms_median": 211.58249999999998,
+   "gpu_ms_p90": 213.18599999999998,
+   "latency_ms_median": 211.58249999999998,
+   "throughput_fps": 4.72537,
+   "n": 96,
+   "VDD_GPU_SOC_mW": 47271.37967914438,
+   "VDD_CPU_CV_mW": 2405.871657754011,
+   "VIN_SYS_5V0_mW": 9219.336898395723,
+   "SOC_mW": 49677.25133689839,
+   "gpu_util": 95.40343347639485,
+   "method": "moge2_vitl_700x1008",
+   "dyn_energy_mJ": 9281.689381845166,
+   "dyn_energy_sys_mJ": 1021.6025288758306
+  }
+ ]
+}

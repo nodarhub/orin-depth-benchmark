@@ -1,0 +1,19 @@
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.14\linewidth}>{\raggedright\arraybackslash}p{0.18\linewidth}>{\raggedright\arraybackslash}p{0.06\linewidth}>{\raggedright\arraybackslash}p{0.18\linewidth}>{\raggedright\arraybackslash}p{0.20\linewidth}>{\raggedright\arraybackslash}p{0.12\linewidth}@{}}
+\toprule
+Method & Processing resolution & Full res.? & Max.\ disparity search range & Limiting factor & Licence (as stated by the authors) \\
+\midrule
+\multicolumn{6}{@{}l}{\emph{Stereo}} \\
+libSGM (Fixstars, 4 paths) & full ($\approx$1990$\times$2880); also half ($\approx$995$\times$1440) and quarter ($\approx$497$\times$720) & yes & 256 levels at the processing resolution (256, $\approx$512 and $\approx$1024\,px at full resolution) & --- & Apache-2.0 \\
+ESS, Light ESS (NVIDIA Isaac ROS) & 576$\times$960 (ESS), 288$\times$480 (Light ESS) & no & no fixed limit (regression) & fixed network input & NVIDIA TAO model EULA (commercial use permitted) \\
+Fast-Foundation\-Stereo (both checkpoints) & 768$\times$1152; also 512$\times$768 and 384$\times$576 & no & $0.27\times$ input width: 320, 224 and 160\,px ($\approx$800\,px at full resolution) & does not fit the 64\,GB Orin at larger sizes: no TensorRT implementation for the cost-volume pooling at 960$\times$1440; ONNX export runs out of host memory at 1280$\times$1920 & NVIDIA Source Code License (non-commercial) \\
+C-Fast-Foundation\-Stereo (commercial checkpoint) & 768$\times$1152; also 512$\times$768 and 384$\times$576 & no & as Fast-FoundationStereo & as Fast-FoundationStereo & NVIDIA Open Model Agreement \\
+\midrule
+\multicolumn{6}{@{}l}{\emph{Monocular}} \\
+Depth Pro & 1536$\times$1536 & no & n/a & fixed network input & Apple licence \\
+Depth Anything V2 (S, B, L) & full (1988$\times$2884); also native 518$\times$770 and (S, L) 1008$\times$1512 & yes & n/a (metric head limited to 20\,m) & --- (trained at 518\,px; FP16 engine of the Small model is numerically unreliable at full size, \cref{sec:fp16}) & S: Apache-2.0; B, L: CC BY-NC 4.0 \\
+Depth Anything 3 Metric-L & native 350$\times$504 (longest side 504\,px); also 700$\times$1008 and full (1988$\times$2884) & yes & n/a & --- (trained at 504\,px) & Apache-2.0 \\
+MoGe-2 (S, B, L) & native $\approx$700$\times$1008 (3600 tokens, default level); also 1400$\times$2030 and full (1988$\times$2884) & yes & n/a & --- (token count is an input parameter) & MIT \\
+Metric3D v2 (ViT-S, ViT-L) & native 616$\times$1064; also 1232$\times$2128 and full (1988$\times$2884) & yes & n/a & --- (input size is a preprocessing parameter) & BSD-2-Clause \\
+UniDepth V2 (S, B, L) & native 644$\times$938 (default pixel budget); also 1302$\times$1890 and full (1988$\times$2884) & yes & n/a & --- (pixel budget is a parameter) & CC BY-NC 4.0 \\
+\bottomrule
+\end{tabular}

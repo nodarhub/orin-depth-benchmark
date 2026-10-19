@@ -1,0 +1,71 @@
+\begin{tabular}{llrrrrrrr}
+\toprule
+Method & Resolution & Dens. & bad-2 & AbsRel & $\delta_{1.05}$ & AbsRel$^{\dagger}$ & GPU ms & J/frame \\
+ & & [\%] & [\%] & [\%] & [\%] & [\%] & & \\
+\midrule
+Light ESS (NVIDIA) & 288$\times$480 (fixed) & 100 & 36.9 & 1.16 & 96.7 & -- & 2.8 & 0.08 \\
+libSGM & $\approx$497$\times$720 (quarter) & 88 & 31.3 & 1.18 & 94.6 & -- & 6.1 & 0.18 \\
+libSGM (hole-filled) & $\approx$497$\times$720 (quarter) & 100 & 28.4 & 2.13 & 90.3 & -- & 6.1 & 0.18 \\
+ESS (NVIDIA) & 576$\times$960 (fixed) & 100 & 20.4 & 0.70 & 98.4 & -- & 8.6 & 0.31 \\
+libSGM & $\approx$995$\times$1440 (half) & 85 & 24.7 & 0.73 & 96.8 & -- & 25.1 & 0.73 \\
+libSGM (hole-filled) & $\approx$995$\times$1440 (half) & 100 & 20.2 & 1.79 & 92.1 & -- & 25.1 & 0.73 \\
+Fast-FoundationStereo 20-30-48 & 384$\times$576 & 100 & 17.0 & 0.64 & 98.2 & -- & 67.7 & 1.88 \\
+libSGM & full ($\approx$1990$\times$2880) & 76 & 32.1 & 0.63 & 97.5 & -- & 100.6 & 2.96 \\
+libSGM (hole-filled) & full ($\approx$1990$\times$2880) & 100 & 22.3 & 1.92 & 91.4 & -- & 100.6 & 2.96 \\
+Fast-FoundationStereo 23-36-37 & 384$\times$576 & 100 & 12.7 & 0.51 & 98.7 & -- & 115.6 & 3.32 \\
+C-Fast-FoundationStereo & 384$\times$576 & 100 & 12.9 & 0.52 & 98.7 & -- & 115.7 & 3.29 \\
+Fast-FoundationStereo 20-30-48 & 512$\times$768 & 100 & 12.4 & 0.51 & 98.7 & -- & 149.7 & 4.23 \\
+Fast-FoundationStereo 23-36-37 & 512$\times$768 & 100 & 8.9 & 0.42 & 99.0 & -- & 257.5 & 7.43 \\
+C-Fast-FoundationStereo & 512$\times$768 & 100 & 9.4 & 0.43 & 99.0 & -- & 257.6 & 7.39 \\
+Fast-FoundationStereo 20-30-48 & 768$\times$1152 (max) & 100 & 8.5 & 0.40 & 99.0 & -- & 444.7 & 12.93 \\
+Fast-FoundationStereo 23-36-37 & 768$\times$1152 (max) & 100 & 6.5 & 0.33 & 99.3 & -- & 758.1 & 22.39 \\
+C-Fast-FoundationStereo & 768$\times$1152 (max) & 100 & 6.0 & 0.33 & 99.3 & -- & 760.4 & 21.95 \\
+\midrule
+Depth Anything V2-S (native) & 518$\times$770 (native) & 100 & 98.1 & 29.88 & 11.0 & 8.93 & 11.5 & 0.50 \\
+Depth Anything V2-B (native) & 518$\times$770 (native) & 100 & 98.5 & 30.55 & 7.3 & 8.93 & 26.8 & 1.32 \\
+Depth Anything 3 Metric-L (GT focal) & 350$\times$504 (native) & 93 & 95.0 & 12.34 & 30.8 & 5.97 & 33.2 & 1.69 \\
+UniDepth V2-S (GT intrinsics) & 644$\times$938 (native) & 93 & 98.4 & 24.67 & 11.9 & 5.71 & 42.5 & 1.72 \\
+Metric3D v2-S (GT focal) & 616$\times$1064 (native) & 65 & 98.8 & 60.06 & 5.5 & 6.51 & 54.5 & 2.01 \\
+MoGe-2-S (GT focal) & 700$\times$1008 (native) & 76 & 98.5 & 33.26 & 7.5 & 4.86 & 72.6 & 2.77 \\
+MoGe-2-S (est. focal) & 700$\times$1008 (native) & 100 & 97.7 & 30.33 & 10.7 & 9.06 & 72.6 & 2.77 \\
+Depth Anything V2-S & 1008$\times$1512 & 100 & 99.9 & 43.79 & 0.5 & 9.17 & 76.6 & 3.40 \\
+Depth Anything V2-L (native) & 518$\times$770 (native) & 100 & 98.5 & 32.46 & 9.3 & 8.31 & 84.5 & 4.12 \\
+UniDepth V2-B (GT intrinsics) & 644$\times$938 (native) & 84 & 98.6 & 25.99 & 11.6 & 3.90 & 85.0 & 3.69 \\
+MoGe-2-B (GT focal) & 700$\times$1008 (native) & 96 & 97.5 & 21.58 & 17.5 & 3.88 & 102.6 & 4.19 \\
+MoGe-2-B (est. focal) & 700$\times$1008 (native) & 100 & 99.7 & 36.41 & 1.5 & 7.53 & 102.6 & 4.19 \\
+Depth Anything 3 Metric-L (GT focal) & 700$\times$1008 & 90 & 96.8 & 14.21 & 23.0 & 6.07 & 181.3 & 8.56 \\
+UniDepth V2-L (GT intrinsics) & 644$\times$938 (native) & 99 & 96.4 & 20.47 & 12.5 & 4.09 & 182.1 & 8.28 \\
+MoGe-2-L (GT focal) & 700$\times$1008 (native) & 94 & 95.8 & 19.24 & 13.0 & 3.78 & 211.6 & 9.28 \\
+MoGe-2-L (est. focal) & 700$\times$1008 (native) & 100 & 98.6 & 39.87 & 6.9 & 9.01 & 211.6 & 9.28 \\
+Metric3D v2-L (GT focal) & 616$\times$1064 (native) & 63 & 100.0 & 56.93 & 0.0 & 4.00 & 265.3 & 11.97 \\
+UniDepth V2-S (GT intrinsics) & 1302$\times$1890 & 95 & 97.5 & 23.37 & 10.2 & 8.02 & 279.1 & 12.22 \\
+Metric3D v2-S (GT focal) & 1232$\times$2128 & 14 & 100.0 & 133.00 & 0.0 & 7.94 & 295.6 & 12.11 \\
+MoGe-2-S (GT focal) & 1400$\times$2030 & 68 & 98.5 & 42.94 & 7.2 & 5.60 & 418.7 & 16.71 \\
+MoGe-2-S (est. focal) & 1400$\times$2030 & 100 & 99.8 & 36.67 & 1.7 & 9.75 & 418.7 & 16.71 \\
+Depth Anything V2-L & 1008$\times$1512 & 100 & 99.6 & 39.46 & 3.6 & 9.92 & 502.7 & 23.54 \\
+UniDepth V2-B (GT intrinsics) & 1302$\times$1890 & 95 & 96.8 & 21.21 & 19.0 & 5.83 & 579.6 & 25.47 \\
+MoGe-2-B (GT focal) & 1400$\times$2030 & 86 & 99.1 & 34.36 & 8.2 & 4.43 & 663.4 & 28.11 \\
+MoGe-2-B (est. focal) & 1400$\times$2030 & 100 & 99.7 & 37.07 & 4.2 & 8.26 & 663.4 & 28.11 \\
+Depth Anything V2-S & 1988$\times$2884 (full) & 100 & 100.0 & 56.04 & 0.1 & 9.73 & 761.6 & 31.70 \\
+Depth Pro (GT focal) & 1536$\times$1536 (fixed) & 98 & 95.9 & 11.98 & 28.9 & 4.70 & 802.5 & 38.68 \\
+Depth Pro (est. focal) & 1536$\times$1536 (fixed) & 95 & 99.4 & 18.95 & 10.5 & 4.70 & 802.5 & 38.68 \\
+Metric3D v2-S (GT focal) & 1988$\times$2884 (full) & 5 & 100.0 & 162.46 & 0.0 & 8.44 & 992.3 & 41.69 \\
+UniDepth V2-S (GT intrinsics) & 1988$\times$2884 (full) & 96 & 98.2 & 22.57 & 10.1 & 8.96 & 1,133.3 & 50.43 \\
+MoGe-2-S (GT focal) & 1988$\times$2884 (full) & 66 & 94.8 & 40.23 & 12.5 & 6.00 & 1,178.6 & 48.76 \\
+MoGe-2-S (est. focal) & 1988$\times$2884 (full) & 100 & 99.3 & 41.33 & 2.6 & 9.99 & 1,178.6 & 48.76 \\
+UniDepth V2-L (GT intrinsics) & 1302$\times$1890 & 100 & 98.3 & 25.02 & 8.3 & 5.55 & 1,250.1 & 56.50 \\
+MoGe-2-L (GT focal) & 1400$\times$2030 & 87 & 97.1 & 23.36 & 13.9 & 4.05 & 1,503.3 & 67.23 \\
+MoGe-2-L (est. focal) & 1400$\times$2030 & 100 & 99.1 & 40.65 & 5.1 & 9.33 & 1,503.3 & 67.23 \\
+Metric3D v2-L (GT focal) & 1232$\times$2128 & 9 & 100.0 & 127.52 & 0.0 & 5.61 & 1,558.6 & 70.16 \\
+Depth Anything V2-B & 1988$\times$2884 (full) & 100 & 100.0 & 41.24 & 0.5 & 10.64 & 1,628.4 & 72.17 \\
+MoGe-2-B (GT focal) & 1988$\times$2884 (full) & 81 & 99.0 & 37.23 & 5.3 & 4.54 & 2,007.0 & 86.64 \\
+MoGe-2-B (est. focal) & 1988$\times$2884 (full) & 100 & 99.6 & 36.32 & 3.3 & 8.35 & 2,007.0 & 86.64 \\
+UniDepth V2-B (GT intrinsics) & 1988$\times$2884 (full) & 96 & 99.4 & 26.18 & 8.4 & 7.69 & 2,335.2 & 103.84 \\
+Depth Anything V2-L & 1988$\times$2884 (full) & 100 & 99.7 & 42.69 & 2.3 & 10.72 & 4,496.9 & 202.70 \\
+Depth Anything 3 Metric-L (GT focal) & 1988$\times$2884 (full) & 56 & 100.0 & 54.88 & 0.2 & 6.24 & 4,503.7 & 201.72 \\
+MoGe-2-L (GT focal) & 1988$\times$2884 (full) & 86 & 99.1 & 24.45 & 13.1 & 3.99 & 4,817.9 & 214.81 \\
+MoGe-2-L (est. focal) & 1988$\times$2884 (full) & 100 & 98.6 & 39.67 & 7.7 & 9.17 & 4,817.9 & 214.81 \\
+UniDepth V2-L (GT intrinsics) & 1988$\times$2884 (full) & 100 & 100.0 & 28.10 & 2.9 & 6.48 & 5,047.5 & 226.71 \\
+Metric3D v2-L (GT focal) & 1988$\times$2884 (full) & 8 & 100.0 & 136.76 & 0.0 & 5.23 & 5,297.5 & 235.45 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,27 @@
+# large / licensed / generated artefacts (re-created by the scripts)
+venv/
+data/
+weights/
+engines/
+third_party/
+prof/
+results/preds/
+results/preds_native/
+results/accuracy/
+results/speed/nsys/
+*.engine
+*.onnx
+*.nsys-rep
+*.sqlite
+__pycache__/
+*.pyc
+.DS_Store
+# LaTeX build products
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz

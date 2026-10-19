@@ -1,0 +1,26 @@
+{
+ "idle": {
+  "VDD_GPU_SOC_mW": 4593.0,
+  "VDD_CPU_CV_mW": 1208.0,
+  "VIN_SYS_5V0_mW": 4491.713043478261,
+  "SOC_mW": 5801.0,
+  "gpu_util": 0.0
+ },
+ "rows": [
+  {
+   "gpu_ms_median": 181.27949999999998,
+   "gpu_ms_p90": 182.3894,
+   "latency_ms_median": 181.27949999999998,
+   "throughput_fps": 5.51026,
+   "n": 112,
+   "VDD_GPU_SOC_mW": 50590.54255319149,
+   "VDD_CPU_CV_mW": 2404.095744680851,
+   "VIN_SYS_5V0_mW": 9271.627659574468,
+   "SOC_mW": 52994.63829787234,
+   "gpu_util": 94.55555555555556,
+   "method": "da3metric_large_700x1008",
+   "dyn_energy_mJ": 8564.684479112118,
+   "dyn_energy_sys_mJ": 867.4571828001232
+  }
+ ]
+}

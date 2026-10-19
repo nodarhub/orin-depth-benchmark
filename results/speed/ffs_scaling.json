@@ -1,0 +1,71 @@
+{
+ "idle": {
+  "VDD_GPU_SOC_mW": 4593.0,
+  "VDD_CPU_CV_mW": 1208.0,
+  "VIN_SYS_5V0_mW": 4302.24347826087,
+  "SOC_mW": 5801.0,
+  "gpu_util": 0.0
+ },
+ "rows": [
+  {
+   "gpu_ms_median": 257.4615,
+   "gpu_ms_p90": 257.60920000000004,
+   "latency_ms_median": 257.4615,
+   "throughput_fps": 3.88376,
+   "n": 80,
+   "VDD_GPU_SOC_mW": 32203.826315789473,
+   "VDD_CPU_CV_mW": 2455.9315789473685,
+   "VIN_SYS_5V0_mW": 9784.463157894737,
+   "SOC_mW": 34659.75789473684,
+   "gpu_util": 94.76694915254237,
+   "method": "ffs_23-36-37_it8_512x768",
+   "dyn_energy_mJ": 7430.62338937958,
+   "dyn_energy_sys_mJ": 1411.5752980703924
+  },
+  {
+   "gpu_ms_median": 149.666,
+   "gpu_ms_p90": 149.791,
+   "latency_ms_median": 149.666,
+   "throughput_fps": 6.68092,
+   "n": 136,
+   "VDD_GPU_SOC_mW": 31627.02688172043,
+   "VDD_CPU_CV_mW": 2419.430107526882,
+   "VIN_SYS_5V0_mW": 9966.881720430107,
+   "SOC_mW": 34046.456989247316,
+   "gpu_util": 94.80172413793103,
+   "method": "ffs_20-30-48_it4_512x768",
+   "dyn_energy_mJ": 4227.779555697017,
+   "dyn_energy_sys_mJ": 847.8829625514505
+  },
+  {
+   "gpu_ms_median": 115.646,
+   "gpu_ms_p90": 115.7202,
+   "latency_ms_median": 115.646,
+   "throughput_fps": 8.648,
+   "n": 175,
+   "VDD_GPU_SOC_mW": 32039.21195652174,
+   "VDD_CPU_CV_mW": 2466.6304347826085,
+   "VIN_SYS_5V0_mW": 9512.152173913044,
+   "SOC_mW": 34505.84239130435,
+   "gpu_util": 95.00434782608696,
+   "method": "ffs_23-36-37_it8_384x576",
+   "dyn_energy_mJ": 3319.2463449704387,
+   "dyn_energy_sys_mJ": 602.4408760004827
+  },
+  {
+   "gpu_ms_median": 67.7109,
+   "gpu_ms_p90": 67.8223,
+   "latency_ms_median": 67.7109,
+   "throughput_fps": 14.7652,
+   "n": 297,
+   "VDD_GPU_SOC_mW": 30997.983606557376,
+   "VDD_CPU_CV_mW": 2634.469945355191,
+   "VIN_SYS_5V0_mW": 9574.464480874318,
+   "SOC_mW": 33632.453551912564,
+   "gpu_util": 95.10572687224669,
+   "method": "ffs_20-30-48_it4_384x576",
+   "dyn_energy_mJ": 1884.9357646298433,
+   "dyn_energy_sys_mJ": 357.07074761015417
+  }
+ ]
+}

@@ -1,0 +1,1289 @@
+mono,stereo,fps,breakeven_camera_usd
+Depth Anything 3 Metric-L (GT focal),ESS (NVIDIA),10,134807.38712069998
+Depth Anything 3 Metric-L (GT focal),ESS (NVIDIA),30,404422.1613620999
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,133035.31310899998
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,399105.93932699994
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,130577.47965999998
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,391732.43898
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,121727.97048
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,365183.91144
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,131597.73946
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,394793.21838
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,127344.69261499999
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,382034.07784499996
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,112330.27408999999
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,336990.82227
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,131597.19964
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,394791.5989200001
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,127339.86422499997
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,382019.59267499996
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,112261.26710000001
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,336783.8013
+Depth Anything 3 Metric-L (GT focal),libSGM,10,132049.26074271998
+Depth Anything 3 Metric-L (GT focal),libSGM,30,396147.78222815995
+Depth Anything 3 Metric-L (GT focal),libSGM,10,134313.52493632
+Depth Anything 3 Metric-L (GT focal),libSGM,30,402940.57480895997
+Depth Anything 3 Metric-L (GT focal),libSGM,10,134881.83207744
+Depth Anything 3 Metric-L (GT focal),libSGM,30,404645.49623232
+Depth Anything 3 Metric-L (GT focal),Light ESS (NVIDIA),10,134981.47697139997
+Depth Anything 3 Metric-L (GT focal),Light ESS (NVIDIA),30,404944.43091419997
+Depth Anything 3 Metric-L (GT focal),ESS (NVIDIA),10,736.4233437000001
+Depth Anything 3 Metric-L (GT focal),ESS (NVIDIA),30,2209.2700311
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,-1035.6506679999998
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,-3106.9520039999998
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,-3493.4841170000004
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,-10480.452351
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,-12342.993296999999
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,-37028.979890999995
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,-2473.2243169999997
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,-7419.672951
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,-6726.271162
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,-20178.813485999995
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,-21740.689687000002
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,-65222.06906100001
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,-2473.764137
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,-7421.292410999999
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,-6731.099552
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,-20193.298655999995
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,-21809.696677
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,-65429.090031
+Depth Anything 3 Metric-L (GT focal),libSGM,10,-2021.70303428
+Depth Anything 3 Metric-L (GT focal),libSGM,30,-6065.10910284
+Depth Anything 3 Metric-L (GT focal),libSGM,10,242.56115932
+Depth Anything 3 Metric-L (GT focal),libSGM,30,727.68347796
+Depth Anything 3 Metric-L (GT focal),libSGM,10,810.8683004400001
+Depth Anything 3 Metric-L (GT focal),libSGM,30,2432.60490132
+Depth Anything 3 Metric-L (GT focal),Light ESS (NVIDIA),10,910.5131944
+Depth Anything 3 Metric-L (GT focal),Light ESS (NVIDIA),30,2731.5395832
+Depth Anything 3 Metric-L (GT focal),ESS (NVIDIA),10,5177.9963257
+Depth Anything 3 Metric-L (GT focal),ESS (NVIDIA),30,15533.9889771
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,3405.9223140000004
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,10217.766942000002
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,948.0888650000005
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,2844.266595000001
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,10,-7901.420314999998
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 20-30-48,30,-23704.260944999995
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,1968.3486650000004
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,5905.045995000001
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,-2284.69818
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,-6854.094539999999
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,10,-17299.116705
+Depth Anything 3 Metric-L (GT focal),Fast-FoundationStereo 23-36-37,30,-51897.35011500001
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,1967.808845
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,5903.426535000001
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,-2289.5265699999995
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,-6868.579709999999
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,10,-17368.123695000002
+Depth Anything 3 Metric-L (GT focal),C-Fast-FoundationStereo,30,-52104.371085
+Depth Anything 3 Metric-L (GT focal),libSGM,10,2419.8699477200003
+Depth Anything 3 Metric-L (GT focal),libSGM,30,7259.609843160001
+Depth Anything 3 Metric-L (GT focal),libSGM,10,4684.134141320001
+Depth Anything 3 Metric-L (GT focal),libSGM,30,14052.402423960002
+Depth Anything 3 Metric-L (GT focal),libSGM,10,5252.44128244
+Depth Anything 3 Metric-L (GT focal),libSGM,30,15757.32384732
+Depth Anything 3 Metric-L (GT focal),Light ESS (NVIDIA),10,5352.086176400001
+Depth Anything 3 Metric-L (GT focal),Light ESS (NVIDIA),30,16056.258529200004
+Depth Anything V2-B,ESS (NVIDIA),10,48577.440020700014
+Depth Anything V2-B,ESS (NVIDIA),30,145732.32006210004
+Depth Anything V2-B,Fast-FoundationStereo 20-30-48,10,46805.366009000005
+Depth Anything V2-B,Fast-FoundationStereo 20-30-48,30,140416.09802699997
+Depth Anything V2-B,Fast-FoundationStereo 20-30-48,10,44347.53256000001
+Depth Anything V2-B,Fast-FoundationStereo 20-30-48,30,133042.59768
+Depth Anything V2-B,Fast-FoundationStereo 20-30-48,10,35498.02338
+Depth Anything V2-B,Fast-FoundationStereo 20-30-48,30,106494.07014000001
+Depth Anything V2-B,Fast-FoundationStereo 23-36-37,10,45367.79236000001
+Depth Anything V2-B,Fast-FoundationStereo 23-36-37,30,136103.37708
+Depth Anything V2-B,Fast-FoundationStereo 23-36-37,10,41114.745515
+Depth Anything V2-B,Fast-FoundationStereo 23-36-37,30,123344.236545
+Depth Anything V2-B,Fast-FoundationStereo 23-36-37,10,26100.32699
+Depth Anything V2-B,Fast-FoundationStereo 23-36-37,30,78300.98097000002
+Depth Anything V2-B,C-Fast-FoundationStereo,10,45367.25254
+Depth Anything V2-B,C-Fast-FoundationStereo,30,136101.75762000002
+Depth Anything V2-B,C-Fast-FoundationStereo,10,41109.91712500001
+Depth Anything V2-B,C-Fast-FoundationStereo,30,123329.751375
+Depth Anything V2-B,C-Fast-FoundationStereo,10,26031.320000000003
+Depth Anything V2-B,C-Fast-FoundationStereo,30,78093.96
+Depth Anything V2-B,libSGM,10,45819.31364272001
+Depth Anything V2-B,libSGM,30,137457.94092816004
+Depth Anything V2-B,libSGM,10,48083.57783632001
+Depth Anything V2-B,libSGM,30,144250.73350896002
+Depth Anything V2-B,libSGM,10,48651.88497743999
+Depth Anything V2-B,libSGM,30,145955.65493232
+Depth Anything V2-B,Light ESS (NVIDIA),10,48751.5298714
+Depth Anything V2-B,Light ESS (NVIDIA),30,146254.5896142
+Depth Anything V2-B (native),ESS (NVIDIA),10,545.5969736999999
+Depth Anything V2-B (native),ESS (NVIDIA),30,1636.7909210999999
+Depth Anything V2-B (native),Fast-FoundationStereo 20-30-48,10,-1226.4770379999998
+Depth Anything V2-B (native),Fast-FoundationStereo 20-30-48,30,-3679.431113999999
+Depth Anything V2-B (native),Fast-FoundationStereo 20-30-48,10,-3684.3104869999997
+Depth Anything V2-B (native),Fast-FoundationStereo 20-30-48,30,-11052.931461
+Depth Anything V2-B (native),Fast-FoundationStereo 20-30-48,10,-12533.819667
+Depth Anything V2-B (native),Fast-FoundationStereo 20-30-48,30,-37601.459000999996
+Depth Anything V2-B (native),Fast-FoundationStereo 23-36-37,10,-2664.050687
+Depth Anything V2-B (native),Fast-FoundationStereo 23-36-37,30,-7992.152061
+Depth Anything V2-B (native),Fast-FoundationStereo 23-36-37,10,-6917.097532000001
+Depth Anything V2-B (native),Fast-FoundationStereo 23-36-37,30,-20751.292596
+Depth Anything V2-B (native),Fast-FoundationStereo 23-36-37,10,-21931.516057
+Depth Anything V2-B (native),Fast-FoundationStereo 23-36-37,30,-65794.548171
+Depth Anything V2-B (native),C-Fast-FoundationStereo,10,-2664.590507
+Depth Anything V2-B (native),C-Fast-FoundationStereo,30,-7993.771521
+Depth Anything V2-B (native),C-Fast-FoundationStereo,10,-6921.925922
+Depth Anything V2-B (native),C-Fast-FoundationStereo,30,-20765.777766
+Depth Anything V2-B (native),C-Fast-FoundationStereo,10,-22000.523047
+Depth Anything V2-B (native),C-Fast-FoundationStereo,30,-66001.56914099999
+Depth Anything V2-B (native),libSGM,10,-2212.52940428
+Depth Anything V2-B (native),libSGM,30,-6637.58821284
+Depth Anything V2-B (native),libSGM,10,51.7347893199999
+Depth Anything V2-B (native),libSGM,30,155.2043679599997
+Depth Anything V2-B (native),libSGM,10,620.0419304399999
+Depth Anything V2-B (native),libSGM,30,1860.1257913199997
+Depth Anything V2-B (native),Light ESS (NVIDIA),10,719.6868244
+Depth Anything V2-B (native),Light ESS (NVIDIA),30,2159.0604732
+Depth Anything V2-L,ESS (NVIDIA),10,14818.3867907
+Depth Anything V2-L,ESS (NVIDIA),30,44455.1603721
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,10,13046.312779000002
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,30,39138.938337
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,10,10588.47933
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,30,31765.437990000002
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,10,1738.9701500000003
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,30,5216.910450000001
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,10,11608.73913
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,30,34826.21739
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,10,7355.692285
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,30,22067.076855
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,10,-7658.72624
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,30,-22976.17872
+Depth Anything V2-L,C-Fast-FoundationStereo,10,11608.19931
+Depth Anything V2-L,C-Fast-FoundationStereo,30,34824.597929999996
+Depth Anything V2-L,C-Fast-FoundationStereo,10,7350.863895
+Depth Anything V2-L,C-Fast-FoundationStereo,30,22052.591685
+Depth Anything V2-L,C-Fast-FoundationStereo,10,-7727.733229999998
+Depth Anything V2-L,C-Fast-FoundationStereo,30,-23183.199689999994
+Depth Anything V2-L,libSGM,10,12060.260412720001
+Depth Anything V2-L,libSGM,30,36180.78123816
+Depth Anything V2-L,libSGM,10,14324.524606320001
+Depth Anything V2-L,libSGM,30,42973.57381896
+Depth Anything V2-L,libSGM,10,14892.831747440001
+Depth Anything V2-L,libSGM,30,44678.49524232
+Depth Anything V2-L,Light ESS (NVIDIA),10,14992.476641399999
+Depth Anything V2-L,Light ESS (NVIDIA),30,44977.4299242
+Depth Anything V2-L,ESS (NVIDIA),10,134603.15522070002
+Depth Anything V2-L,ESS (NVIDIA),30,403809.4656621
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,10,132831.081209
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,30,398493.2436270001
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,10,130373.24776000001
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,30,391119.74328
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,10,121523.73858000002
+Depth Anything V2-L,Fast-FoundationStereo 20-30-48,30,364571.21574
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,10,131393.50756
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,30,394180.52268
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,10,127140.46071500001
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,30,381421.382145
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,10,112126.04219000001
+Depth Anything V2-L,Fast-FoundationStereo 23-36-37,30,336378.12657
+Depth Anything V2-L,C-Fast-FoundationStereo,10,131392.96774000002
+Depth Anything V2-L,C-Fast-FoundationStereo,30,394178.9032200001
+Depth Anything V2-L,C-Fast-FoundationStereo,10,127135.63232500001
+Depth Anything V2-L,C-Fast-FoundationStereo,30,381406.896975
+Depth Anything V2-L,C-Fast-FoundationStereo,10,112057.03520000001
+Depth Anything V2-L,C-Fast-FoundationStereo,30,336171.1056
+Depth Anything V2-L,libSGM,10,131845.02884272
+Depth Anything V2-L,libSGM,30,395535.08652815997
+Depth Anything V2-L,libSGM,10,134109.29303632
+Depth Anything V2-L,libSGM,30,402327.87910896
+Depth Anything V2-L,libSGM,10,134677.60017744
+Depth Anything V2-L,libSGM,30,404032.80053232005
+Depth Anything V2-L,Light ESS (NVIDIA),10,134777.2450714
+Depth Anything V2-L,Light ESS (NVIDIA),30,404331.7352142
+Depth Anything V2-L (native),ESS (NVIDIA),10,2275.2282377
+Depth Anything V2-L (native),ESS (NVIDIA),30,6825.6847130999995
+Depth Anything V2-L (native),Fast-FoundationStereo 20-30-48,10,503.154226
+Depth Anything V2-L (native),Fast-FoundationStereo 20-30-48,30,1509.462678
+Depth Anything V2-L (native),Fast-FoundationStereo 20-30-48,10,-1954.679223
+Depth Anything V2-L (native),Fast-FoundationStereo 20-30-48,30,-5864.037669
+Depth Anything V2-L (native),Fast-FoundationStereo 20-30-48,10,-10804.188403
+Depth Anything V2-L (native),Fast-FoundationStereo 20-30-48,30,-32412.565209000004
+Depth Anything V2-L (native),Fast-FoundationStereo 23-36-37,10,-934.4194230000002
+Depth Anything V2-L (native),Fast-FoundationStereo 23-36-37,30,-2803.2582690000004
+Depth Anything V2-L (native),Fast-FoundationStereo 23-36-37,10,-5187.466268000001
+Depth Anything V2-L (native),Fast-FoundationStereo 23-36-37,30,-15562.398804000002
+Depth Anything V2-L (native),Fast-FoundationStereo 23-36-37,10,-20201.884793
+Depth Anything V2-L (native),Fast-FoundationStereo 23-36-37,30,-60605.654379000014
+Depth Anything V2-L (native),C-Fast-FoundationStereo,10,-934.9592430000002
+Depth Anything V2-L (native),C-Fast-FoundationStereo,30,-2804.8777290000007
+Depth Anything V2-L (native),C-Fast-FoundationStereo,10,-5192.294658000001
+Depth Anything V2-L (native),C-Fast-FoundationStereo,30,-15576.883974000002
+Depth Anything V2-L (native),C-Fast-FoundationStereo,10,-20270.891783
+Depth Anything V2-L (native),C-Fast-FoundationStereo,30,-60812.675349
+Depth Anything V2-L (native),libSGM,10,-482.8981402800001
+Depth Anything V2-L (native),libSGM,30,-1448.6944208400005
+Depth Anything V2-L (native),libSGM,10,1781.36605332
+Depth Anything V2-L (native),libSGM,30,5344.098159959999
+Depth Anything V2-L (native),libSGM,10,2349.67319444
+Depth Anything V2-L (native),libSGM,30,7049.0195833200005
+Depth Anything V2-L (native),Light ESS (NVIDIA),10,2449.3180884
+Depth Anything V2-L (native),Light ESS (NVIDIA),30,7347.954265199999
+Depth Anything V2-S,ESS (NVIDIA),10,2037.4735157000005
+Depth Anything V2-S,ESS (NVIDIA),30,6112.420547100001
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,10,265.39950400000026
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,30,796.1985120000008
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,10,-2192.4339449999998
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,30,-6577.301835
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,10,-11041.943125
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,30,-33125.829375
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,10,-1172.174145
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,30,-3516.5224349999994
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,10,-5425.220990000001
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,30,-16275.662970000001
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,10,-20439.639515
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,30,-61318.91854499999
+Depth Anything V2-S,C-Fast-FoundationStereo,10,-1172.713965
+Depth Anything V2-S,C-Fast-FoundationStereo,30,-3518.141895
+Depth Anything V2-S,C-Fast-FoundationStereo,10,-5430.04938
+Depth Anything V2-S,C-Fast-FoundationStereo,30,-16290.148140000001
+Depth Anything V2-S,C-Fast-FoundationStereo,10,-20508.646504999997
+Depth Anything V2-S,C-Fast-FoundationStereo,30,-61525.939515
+Depth Anything V2-S,libSGM,10,-720.6528622799998
+Depth Anything V2-S,libSGM,30,-2161.9585868399995
+Depth Anything V2-S,libSGM,10,1543.61133132
+Depth Anything V2-S,libSGM,30,4630.83399396
+Depth Anything V2-S,libSGM,10,2111.91847244
+Depth Anything V2-S,libSGM,30,6335.755417320001
+Depth Anything V2-S,Light ESS (NVIDIA),10,2211.5633664
+Depth Anything V2-S,Light ESS (NVIDIA),30,6634.690099200001
+Depth Anything V2-S,ESS (NVIDIA),10,22580.9983907
+Depth Anything V2-S,ESS (NVIDIA),30,67742.99517210001
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,10,20808.924379
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,30,62426.77313699999
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,10,18351.09093
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,30,55053.272789999995
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,10,9501.58175
+Depth Anything V2-S,Fast-FoundationStereo 20-30-48,30,28504.74525
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,10,19371.350730000002
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,30,58114.05219
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,10,15118.303885
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,30,45354.911654999996
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,10,103.88535999999826
+Depth Anything V2-S,Fast-FoundationStereo 23-36-37,30,311.65607999999474
+Depth Anything V2-S,C-Fast-FoundationStereo,10,19370.81091
+Depth Anything V2-S,C-Fast-FoundationStereo,30,58112.43273
+Depth Anything V2-S,C-Fast-FoundationStereo,10,15113.475495
+Depth Anything V2-S,C-Fast-FoundationStereo,30,45340.426484999996
+Depth Anything V2-S,C-Fast-FoundationStereo,10,34.878370000000324
+Depth Anything V2-S,C-Fast-FoundationStereo,30,104.63511000000099
+Depth Anything V2-S,libSGM,10,19822.87201272
+Depth Anything V2-S,libSGM,30,59468.61603816
+Depth Anything V2-S,libSGM,10,22087.13620632
+Depth Anything V2-S,libSGM,30,66261.40861896
+Depth Anything V2-S,libSGM,10,22655.443347440003
+Depth Anything V2-S,libSGM,30,67966.33004232
+Depth Anything V2-S,Light ESS (NVIDIA),10,22755.0882414
+Depth Anything V2-S,Light ESS (NVIDIA),30,68265.2647242
+Depth Anything V2-S (native),ESS (NVIDIA),10,87.39175969999997
+Depth Anything V2-S (native),ESS (NVIDIA),30,262.17527909999984
+Depth Anything V2-S (native),Fast-FoundationStereo 20-30-48,10,-1684.6822519999998
+Depth Anything V2-S (native),Fast-FoundationStereo 20-30-48,30,-5054.046756
+Depth Anything V2-S (native),Fast-FoundationStereo 20-30-48,10,-4142.515701
+Depth Anything V2-S (native),Fast-FoundationStereo 20-30-48,30,-12427.547102999999
+Depth Anything V2-S (native),Fast-FoundationStereo 20-30-48,10,-12992.024881000001
+Depth Anything V2-S (native),Fast-FoundationStereo 20-30-48,30,-38976.074643
+Depth Anything V2-S (native),Fast-FoundationStereo 23-36-37,10,-3122.255901
+Depth Anything V2-S (native),Fast-FoundationStereo 23-36-37,30,-9366.767703
+Depth Anything V2-S (native),Fast-FoundationStereo 23-36-37,10,-7375.302746
+Depth Anything V2-S (native),Fast-FoundationStereo 23-36-37,30,-22125.908238
+Depth Anything V2-S (native),Fast-FoundationStereo 23-36-37,10,-22389.721271000002
+Depth Anything V2-S (native),Fast-FoundationStereo 23-36-37,30,-67169.163813
+Depth Anything V2-S (native),C-Fast-FoundationStereo,10,-3122.7957210000004
+Depth Anything V2-S (native),C-Fast-FoundationStereo,30,-9368.387163
+Depth Anything V2-S (native),C-Fast-FoundationStereo,10,-7380.131136
+Depth Anything V2-S (native),C-Fast-FoundationStereo,30,-22140.393408
+Depth Anything V2-S (native),C-Fast-FoundationStereo,10,-22458.728261
+Depth Anything V2-S (native),C-Fast-FoundationStereo,30,-67376.18478299999
+Depth Anything V2-S (native),libSGM,10,-2670.7346182799997
+Depth Anything V2-S (native),libSGM,30,-8012.203854839999
+Depth Anything V2-S (native),libSGM,10,-406.47042468000006
+Depth Anything V2-S (native),libSGM,30,-1219.4112740400003
+Depth Anything V2-S (native),libSGM,10,161.83671643999995
+Depth Anything V2-S (native),libSGM,30,485.5101493199999
+Depth Anything V2-S (native),Light ESS (NVIDIA),10,261.4816103999999
+Depth Anything V2-S (native),Light ESS (NVIDIA),30,784.4448311999998
+Depth Pro (GT focal),ESS (NVIDIA),10,23808.5490707
+Depth Pro (GT focal),ESS (NVIDIA),30,71425.6472121
+Depth Pro (GT focal),Fast-FoundationStereo 20-30-48,10,22036.475059
+Depth Pro (GT focal),Fast-FoundationStereo 20-30-48,30,66109.425177
+Depth Pro (GT focal),Fast-FoundationStereo 20-30-48,10,19578.64161
+Depth Pro (GT focal),Fast-FoundationStereo 20-30-48,30,58735.924829999996
+Depth Pro (GT focal),Fast-FoundationStereo 20-30-48,10,10729.13243
+Depth Pro (GT focal),Fast-FoundationStereo 20-30-48,30,32187.39729
+Depth Pro (GT focal),Fast-FoundationStereo 23-36-37,10,20598.901410000002
+Depth Pro (GT focal),Fast-FoundationStereo 23-36-37,30,61796.704229999996
+Depth Pro (GT focal),Fast-FoundationStereo 23-36-37,10,16345.854565
+Depth Pro (GT focal),Fast-FoundationStereo 23-36-37,30,49037.563695
+Depth Pro (GT focal),Fast-FoundationStereo 23-36-37,10,1331.4360399999987
+Depth Pro (GT focal),Fast-FoundationStereo 23-36-37,30,3994.3081199999965
+Depth Pro (GT focal),C-Fast-FoundationStereo,10,20598.36159
+Depth Pro (GT focal),C-Fast-FoundationStereo,30,61795.084769999994
+Depth Pro (GT focal),C-Fast-FoundationStereo,10,16341.026174999995
+Depth Pro (GT focal),C-Fast-FoundationStereo,30,49023.078525
+Depth Pro (GT focal),C-Fast-FoundationStereo,10,1262.4290500000009
+Depth Pro (GT focal),C-Fast-FoundationStereo,30,3787.287150000003
+Depth Pro (GT focal),libSGM,10,21050.42269272
+Depth Pro (GT focal),libSGM,30,63151.26807816
+Depth Pro (GT focal),libSGM,10,23314.68688632
+Depth Pro (GT focal),libSGM,30,69944.06065895999
+Depth Pro (GT focal),libSGM,10,23882.994027440003
+Depth Pro (GT focal),libSGM,30,71648.98208232
+Depth Pro (GT focal),Light ESS (NVIDIA),10,23982.638921399997
+Depth Pro (GT focal),Light ESS (NVIDIA),30,71947.9167642
+Depth Pro (est. focal),ESS (NVIDIA),10,23808.5490707
+Depth Pro (est. focal),ESS (NVIDIA),30,71425.6472121
+Depth Pro (est. focal),Fast-FoundationStereo 20-30-48,10,22036.475059
+Depth Pro (est. focal),Fast-FoundationStereo 20-30-48,30,66109.425177
+Depth Pro (est. focal),Fast-FoundationStereo 20-30-48,10,19578.64161
+Depth Pro (est. focal),Fast-FoundationStereo 20-30-48,30,58735.924829999996
+Depth Pro (est. focal),Fast-FoundationStereo 20-30-48,10,10729.13243
+Depth Pro (est. focal),Fast-FoundationStereo 20-30-48,30,32187.39729
+Depth Pro (est. focal),Fast-FoundationStereo 23-36-37,10,20598.901410000002
+Depth Pro (est. focal),Fast-FoundationStereo 23-36-37,30,61796.704229999996
+Depth Pro (est. focal),Fast-FoundationStereo 23-36-37,10,16345.854565
+Depth Pro (est. focal),Fast-FoundationStereo 23-36-37,30,49037.563695
+Depth Pro (est. focal),Fast-FoundationStereo 23-36-37,10,1331.4360399999987
+Depth Pro (est. focal),Fast-FoundationStereo 23-36-37,30,3994.3081199999965
+Depth Pro (est. focal),C-Fast-FoundationStereo,10,20598.36159
+Depth Pro (est. focal),C-Fast-FoundationStereo,30,61795.084769999994
+Depth Pro (est. focal),C-Fast-FoundationStereo,10,16341.026174999995
+Depth Pro (est. focal),C-Fast-FoundationStereo,30,49023.078525
+Depth Pro (est. focal),C-Fast-FoundationStereo,10,1262.4290500000009
+Depth Pro (est. focal),C-Fast-FoundationStereo,30,3787.287150000003
+Depth Pro (est. focal),libSGM,10,21050.42269272
+Depth Pro (est. focal),libSGM,30,63151.26807816
+Depth Pro (est. focal),libSGM,10,23314.68688632
+Depth Pro (est. focal),libSGM,30,69944.06065895999
+Depth Pro (est. focal),libSGM,10,23882.994027440003
+Depth Pro (est. focal),libSGM,30,71648.98208232
+Depth Pro (est. focal),Light ESS (NVIDIA),10,23982.638921399997
+Depth Pro (est. focal),Light ESS (NVIDIA),30,71947.9167642
+Metric3D v2-L (GT focal),ESS (NVIDIA),10,46482.638520700006
+Metric3D v2-L (GT focal),ESS (NVIDIA),30,139447.9155621
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,44710.564508999996
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,134131.693527
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,42252.731060000006
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,126758.19318
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,33403.22188
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,100209.66564
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,43272.99086
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,129818.97257999999
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,39019.944015
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,117059.832045
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,24005.52549
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,72016.57647
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,43272.45104
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,129817.35311999999
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,39015.115625
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,117045.346875
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,23936.5185
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,71809.5555
+Metric3D v2-L (GT focal),libSGM,10,43724.51214272
+Metric3D v2-L (GT focal),libSGM,30,131173.53642816
+Metric3D v2-L (GT focal),libSGM,10,45988.77633632
+Metric3D v2-L (GT focal),libSGM,30,137966.32900896002
+Metric3D v2-L (GT focal),libSGM,10,46557.08347743999
+Metric3D v2-L (GT focal),libSGM,30,139671.25043231997
+Metric3D v2-L (GT focal),Light ESS (NVIDIA),10,46656.7283714
+Metric3D v2-L (GT focal),Light ESS (NVIDIA),30,139970.1851142
+Metric3D v2-L (GT focal),ESS (NVIDIA),10,158614.1988707
+Metric3D v2-L (GT focal),ESS (NVIDIA),30,475842.59661209997
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,156842.12485899997
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,470526.374577
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,154384.29141
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,463152.87422999996
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,145534.78223
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,436604.34669000003
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,155404.55121
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,466213.65362999996
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,151151.50436499997
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,453454.51309499994
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,136137.08583999999
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,408411.2575199999
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,155404.01139
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,466212.03417
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,151146.675975
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,453440.02792499994
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,136068.07885
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,408204.2365499999
+Metric3D v2-L (GT focal),libSGM,10,155856.07249271998
+Metric3D v2-L (GT focal),libSGM,30,467568.21747815993
+Metric3D v2-L (GT focal),libSGM,10,158120.33668632
+Metric3D v2-L (GT focal),libSGM,30,474361.0100589599
+Metric3D v2-L (GT focal),libSGM,10,158688.64382744
+Metric3D v2-L (GT focal),libSGM,30,476065.93148232
+Metric3D v2-L (GT focal),Light ESS (NVIDIA),10,158788.28872139996
+Metric3D v2-L (GT focal),Light ESS (NVIDIA),30,476364.86616419995
+Metric3D v2-L (GT focal),ESS (NVIDIA),10,7698.131000700001
+Metric3D v2-L (GT focal),ESS (NVIDIA),30,23094.393002099998
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,5926.0569890000015
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,17778.170967000002
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,3468.22354
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,10404.670620000003
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,10,-5381.285639999999
+Metric3D v2-L (GT focal),Fast-FoundationStereo 20-30-48,30,-16143.856919999997
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,4488.48334
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,13465.450019999998
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,235.43649500000032
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,706.309485000001
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,10,-14778.982030000001
+Metric3D v2-L (GT focal),Fast-FoundationStereo 23-36-37,30,-44336.946090000005
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,4487.943520000001
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,13463.83056
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,230.6081050000003
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,691.8243150000009
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,10,-14847.989019999999
+Metric3D v2-L (GT focal),C-Fast-FoundationStereo,30,-44543.967059999995
+Metric3D v2-L (GT focal),libSGM,10,4940.00462272
+Metric3D v2-L (GT focal),libSGM,30,14820.013868160002
+Metric3D v2-L (GT focal),libSGM,10,7204.26881632
+Metric3D v2-L (GT focal),libSGM,30,21612.80644896
+Metric3D v2-L (GT focal),libSGM,10,7772.57595744
+Metric3D v2-L (GT focal),libSGM,30,23317.727872320003
+Metric3D v2-L (GT focal),Light ESS (NVIDIA),10,7872.2208514
+Metric3D v2-L (GT focal),Light ESS (NVIDIA),30,23616.662554200004
+Metric3D v2-S (GT focal),ESS (NVIDIA),10,8605.508440699998
+Metric3D v2-S (GT focal),ESS (NVIDIA),30,25816.5253221
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,6833.434429
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,20500.303287
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,4375.60098
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,13126.802939999998
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-4473.908200000001
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-13421.724600000001
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,5395.860779999999
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,16187.582339999997
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,1142.8139349999994
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,3428.4418049999986
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-13871.60459
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-41614.81377
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,5395.32096
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,16185.962880000001
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,1137.9855449999995
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,3413.956634999998
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,-13940.611579999999
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,-41821.834740000006
+Metric3D v2-S (GT focal),libSGM,10,5847.382062719999
+Metric3D v2-S (GT focal),libSGM,30,17542.146188159997
+Metric3D v2-S (GT focal),libSGM,10,8111.646256319999
+Metric3D v2-S (GT focal),libSGM,30,24334.938768959997
+Metric3D v2-S (GT focal),libSGM,10,8679.953397439998
+Metric3D v2-S (GT focal),libSGM,30,26039.860192319993
+Metric3D v2-S (GT focal),Light ESS (NVIDIA),10,8779.5982914
+Metric3D v2-S (GT focal),Light ESS (NVIDIA),30,26338.7948742
+Metric3D v2-S (GT focal),ESS (NVIDIA),10,29501.7607007
+Metric3D v2-S (GT focal),ESS (NVIDIA),30,88505.2821021
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,27729.686689000002
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,83189.06006699998
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,25271.853239999993
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,75815.55971999999
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,16422.344060000003
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,49267.03218
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,26292.113040000004
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,78876.33912
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,22039.066195000003
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,66117.198585
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,7024.6476699999985
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,21073.94300999999
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,26291.573220000002
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,78874.71966
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,22034.237805
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,66102.71341499999
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,6955.64068
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,20866.92204
+Metric3D v2-S (GT focal),libSGM,10,26743.63432272
+Metric3D v2-S (GT focal),libSGM,30,80230.90296816
+Metric3D v2-S (GT focal),libSGM,10,29007.898516319994
+Metric3D v2-S (GT focal),libSGM,30,87023.69554896
+Metric3D v2-S (GT focal),libSGM,10,29576.205657440005
+Metric3D v2-S (GT focal),libSGM,30,88728.61697232
+Metric3D v2-S (GT focal),Light ESS (NVIDIA),10,29675.850551399995
+Metric3D v2-S (GT focal),Light ESS (NVIDIA),30,89027.5516542
+Metric3D v2-S (GT focal),ESS (NVIDIA),10,1375.4682577
+Metric3D v2-S (GT focal),ESS (NVIDIA),30,4126.404773099999
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-396.6057539999998
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-1189.8172619999993
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-2854.439203
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-8563.317609
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-11703.948383
+Metric3D v2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-35111.845149
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-1834.1794029999999
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-5502.538208999999
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-6087.226247999999
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-18261.678744
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-21101.644773
+Metric3D v2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-63304.934319
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,-1834.719223
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,-5504.157669
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,-6092.0546380000005
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,-18276.163914
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,10,-21170.651762999998
+Metric3D v2-S (GT focal),C-Fast-FoundationStereo,30,-63511.955289
+Metric3D v2-S (GT focal),libSGM,10,-1382.65812028
+Metric3D v2-S (GT focal),libSGM,30,-4147.9743608399995
+Metric3D v2-S (GT focal),libSGM,10,881.60607332
+Metric3D v2-S (GT focal),libSGM,30,2644.81821996
+Metric3D v2-S (GT focal),libSGM,10,1449.9132144399998
+Metric3D v2-S (GT focal),libSGM,30,4349.73964332
+Metric3D v2-S (GT focal),Light ESS (NVIDIA),10,1549.5581084
+Metric3D v2-S (GT focal),Light ESS (NVIDIA),30,4648.6743252
+MoGe-2-B (GT focal),ESS (NVIDIA),10,19638.199650699997
+MoGe-2-B (GT focal),ESS (NVIDIA),30,58914.598952099994
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,17866.125638999998
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,53598.376917
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,15408.292189999996
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,46224.87656999999
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,6558.783010000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,19676.34903
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,16428.55199
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,49285.65597000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,12175.505145
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,36526.515435
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,-2838.913380000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,-8516.740140000004
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,16428.012169999998
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,49284.036510000005
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,12170.676755
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,36512.030265
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,-2907.920369999999
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,-8723.761109999998
+MoGe-2-B (GT focal),libSGM,10,16880.073272719997
+MoGe-2-B (GT focal),libSGM,30,50640.219818159996
+MoGe-2-B (GT focal),libSGM,10,19144.337466319997
+MoGe-2-B (GT focal),libSGM,30,57433.01239895999
+MoGe-2-B (GT focal),libSGM,10,19712.64460744
+MoGe-2-B (GT focal),libSGM,30,59137.93382232
+MoGe-2-B (GT focal),Light ESS (NVIDIA),10,19812.2895014
+MoGe-2-B (GT focal),Light ESS (NVIDIA),30,59436.8685042
+MoGe-2-B (est. focal),ESS (NVIDIA),10,19638.199650699997
+MoGe-2-B (est. focal),ESS (NVIDIA),30,58914.598952099994
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,17866.125638999998
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,53598.376917
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,15408.292189999996
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,46224.87656999999
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,6558.783010000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,19676.34903
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,16428.55199
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,49285.65597000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,12175.505145
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,36526.515435
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,-2838.913380000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,-8516.740140000004
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,16428.012169999998
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,49284.036510000005
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,12170.676755
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,36512.030265
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,-2907.920369999999
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,-8723.761109999998
+MoGe-2-B (est. focal),libSGM,10,16880.073272719997
+MoGe-2-B (est. focal),libSGM,30,50640.219818159996
+MoGe-2-B (est. focal),libSGM,10,19144.337466319997
+MoGe-2-B (est. focal),libSGM,30,57433.01239895999
+MoGe-2-B (est. focal),libSGM,10,19712.64460744
+MoGe-2-B (est. focal),libSGM,30,59137.93382232
+MoGe-2-B (est. focal),Light ESS (NVIDIA),10,19812.2895014
+MoGe-2-B (est. focal),Light ESS (NVIDIA),30,59436.8685042
+MoGe-2-B (GT focal),ESS (NVIDIA),10,59931.65402070001
+MoGe-2-B (GT focal),ESS (NVIDIA),30,179794.9620621
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,58159.580009
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,174478.740027
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,55701.74656000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,167105.23968
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,46852.23738
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,140556.71214
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,56722.00636
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,170166.01908
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,52468.95951500001
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,157406.87854499999
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,37454.540989999994
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,112363.62297
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,56721.46654
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,170164.39961999998
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,52464.131125
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,157392.393375
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,37385.534
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,112156.60200000001
+MoGe-2-B (GT focal),libSGM,10,57173.52764272001
+MoGe-2-B (GT focal),libSGM,30,171520.58292816
+MoGe-2-B (GT focal),libSGM,10,59437.79183631999
+MoGe-2-B (GT focal),libSGM,30,178313.37550896002
+MoGe-2-B (GT focal),libSGM,10,60006.098977439986
+MoGe-2-B (GT focal),libSGM,30,180018.29693232
+MoGe-2-B (GT focal),Light ESS (NVIDIA),10,60105.743871399995
+MoGe-2-B (GT focal),Light ESS (NVIDIA),30,180317.2316142
+MoGe-2-B (est. focal),ESS (NVIDIA),10,59931.65402070001
+MoGe-2-B (est. focal),ESS (NVIDIA),30,179794.9620621
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,58159.580009
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,174478.740027
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,55701.74656000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,167105.23968
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,46852.23738
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,140556.71214
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,56722.00636
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,170166.01908
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,52468.95951500001
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,157406.87854499999
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,37454.540989999994
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,112363.62297
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,56721.46654
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,170164.39961999998
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,52464.131125
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,157392.393375
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,37385.534
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,112156.60200000001
+MoGe-2-B (est. focal),libSGM,10,57173.52764272001
+MoGe-2-B (est. focal),libSGM,30,171520.58292816
+MoGe-2-B (est. focal),libSGM,10,59437.79183631999
+MoGe-2-B (est. focal),libSGM,30,178313.37550896002
+MoGe-2-B (est. focal),libSGM,10,60006.098977439986
+MoGe-2-B (est. focal),libSGM,30,180018.29693232
+MoGe-2-B (est. focal),Light ESS (NVIDIA),10,60105.743871399995
+MoGe-2-B (est. focal),Light ESS (NVIDIA),30,180317.2316142
+MoGe-2-B (GT focal),ESS (NVIDIA),10,2819.2378407000006
+MoGe-2-B (GT focal),ESS (NVIDIA),30,8457.7135221
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,1047.1638290000003
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,3141.4914870000002
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,-1410.6696200000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,-4232.00886
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,10,-10260.1788
+MoGe-2-B (GT focal),Fast-FoundationStereo 20-30-48,30,-30780.5364
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,-390.4098200000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,-1171.22946
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,-4643.456665
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,-13930.369995000001
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,10,-19657.87519
+MoGe-2-B (GT focal),Fast-FoundationStereo 23-36-37,30,-58973.62557
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,-390.94964
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,-1172.8489200000001
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,-4648.285055
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,-13944.855165000004
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,10,-19726.88218
+MoGe-2-B (GT focal),C-Fast-FoundationStereo,30,-59180.64654
+MoGe-2-B (GT focal),libSGM,10,61.111462720000034
+MoGe-2-B (GT focal),libSGM,30,183.33438816000012
+MoGe-2-B (GT focal),libSGM,10,2325.3756563199995
+MoGe-2-B (GT focal),libSGM,30,6976.1269689599985
+MoGe-2-B (GT focal),libSGM,10,2893.6827974400003
+MoGe-2-B (GT focal),libSGM,30,8681.048392319999
+MoGe-2-B (GT focal),Light ESS (NVIDIA),10,2993.3276914
+MoGe-2-B (GT focal),Light ESS (NVIDIA),30,8979.9830742
+MoGe-2-B (est. focal),ESS (NVIDIA),10,2819.2378407000006
+MoGe-2-B (est. focal),ESS (NVIDIA),30,8457.7135221
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,1047.1638290000003
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,3141.4914870000002
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,-1410.6696200000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,-4232.00886
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,10,-10260.1788
+MoGe-2-B (est. focal),Fast-FoundationStereo 20-30-48,30,-30780.5364
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,-390.4098200000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,-1171.22946
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,-4643.456665
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,-13930.369995000001
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,10,-19657.87519
+MoGe-2-B (est. focal),Fast-FoundationStereo 23-36-37,30,-58973.62557
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,-390.94964
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,-1172.8489200000001
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,-4648.285055
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,-13944.855165000004
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,10,-19726.88218
+MoGe-2-B (est. focal),C-Fast-FoundationStereo,30,-59180.64654
+MoGe-2-B (est. focal),libSGM,10,61.111462720000034
+MoGe-2-B (est. focal),libSGM,30,183.33438816000012
+MoGe-2-B (est. focal),libSGM,10,2325.3756563199995
+MoGe-2-B (est. focal),libSGM,30,6976.1269689599985
+MoGe-2-B (est. focal),libSGM,10,2893.6827974400003
+MoGe-2-B (est. focal),libSGM,30,8681.048392319999
+MoGe-2-B (est. focal),Light ESS (NVIDIA),10,2993.3276914
+MoGe-2-B (est. focal),Light ESS (NVIDIA),30,8979.9830742
+MoGe-2-L (GT focal),ESS (NVIDIA),10,44825.9909207
+MoGe-2-L (GT focal),ESS (NVIDIA),30,134477.97276210002
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,43053.916909
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,129161.75072699998
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,40596.08346
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,121788.25038
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,31746.574279999997
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,95239.72283999999
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,41616.34326
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,124849.02978
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,37363.296415
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,112089.889245
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,22348.877889999996
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,67046.63367
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,41615.803439999996
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,124847.41032
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,37358.468025
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,112075.404075
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,22279.870899999998
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,66839.6127
+MoGe-2-L (GT focal),libSGM,10,42067.86454272
+MoGe-2-L (GT focal),libSGM,30,126203.59362816002
+MoGe-2-L (GT focal),libSGM,10,44332.12873632
+MoGe-2-L (GT focal),libSGM,30,132996.38620896
+MoGe-2-L (GT focal),libSGM,10,44900.435877439995
+MoGe-2-L (GT focal),libSGM,30,134701.30763231998
+MoGe-2-L (GT focal),Light ESS (NVIDIA),10,45000.08077139999
+MoGe-2-L (GT focal),Light ESS (NVIDIA),30,135000.24231419998
+MoGe-2-L (est. focal),ESS (NVIDIA),10,44825.9909207
+MoGe-2-L (est. focal),ESS (NVIDIA),30,134477.97276210002
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,43053.916909
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,129161.75072699998
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,40596.08346
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,121788.25038
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,31746.574279999997
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,95239.72283999999
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,41616.34326
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,124849.02978
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,37363.296415
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,112089.889245
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,22348.877889999996
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,67046.63367
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,41615.803439999996
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,124847.41032
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,37358.468025
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,112075.404075
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,22279.870899999998
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,66839.6127
+MoGe-2-L (est. focal),libSGM,10,42067.86454272
+MoGe-2-L (est. focal),libSGM,30,126203.59362816002
+MoGe-2-L (est. focal),libSGM,10,44332.12873632
+MoGe-2-L (est. focal),libSGM,30,132996.38620896
+MoGe-2-L (est. focal),libSGM,10,44900.435877439995
+MoGe-2-L (est. focal),libSGM,30,134701.30763231998
+MoGe-2-L (est. focal),Light ESS (NVIDIA),10,45000.08077139999
+MoGe-2-L (est. focal),Light ESS (NVIDIA),30,135000.24231419998
+MoGe-2-L (GT focal),ESS (NVIDIA),10,144230.09517070002
+MoGe-2-L (GT focal),ESS (NVIDIA),30,432690.2855120999
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,142458.021159
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,427374.06347700005
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,140000.18771
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,420000.56312999997
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,131150.67853000003
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,393452.0355900001
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,141020.44751000003
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,423061.34253000014
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,136767.400665
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,410302.201995
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,121752.98214000004
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,365258.94642000005
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,141019.90769000002
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,423059.72307000007
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,136762.57227499998
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,410287.71682499995
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,121683.97515000001
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,365051.92545000004
+MoGe-2-L (GT focal),libSGM,10,141471.96879272
+MoGe-2-L (GT focal),libSGM,30,424415.90637816
+MoGe-2-L (GT focal),libSGM,10,143736.23298632
+MoGe-2-L (GT focal),libSGM,30,431208.69895896007
+MoGe-2-L (GT focal),libSGM,10,144304.54012744004
+MoGe-2-L (GT focal),libSGM,30,432913.62038231996
+MoGe-2-L (GT focal),Light ESS (NVIDIA),10,144404.18502140002
+MoGe-2-L (GT focal),Light ESS (NVIDIA),30,433212.5550642
+MoGe-2-L (est. focal),ESS (NVIDIA),10,144230.09517070002
+MoGe-2-L (est. focal),ESS (NVIDIA),30,432690.2855120999
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,142458.021159
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,427374.06347700005
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,140000.18771
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,420000.56312999997
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,131150.67853000003
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,393452.0355900001
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,141020.44751000003
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,423061.34253000014
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,136767.400665
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,410302.201995
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,121752.98214000004
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,365258.94642000005
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,141019.90769000002
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,423059.72307000007
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,136762.57227499998
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,410287.71682499995
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,121683.97515000001
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,365051.92545000004
+MoGe-2-L (est. focal),libSGM,10,141471.96879272
+MoGe-2-L (est. focal),libSGM,30,424415.90637816
+MoGe-2-L (est. focal),libSGM,10,143736.23298632
+MoGe-2-L (est. focal),libSGM,30,431208.69895896007
+MoGe-2-L (est. focal),libSGM,10,144304.54012744004
+MoGe-2-L (est. focal),libSGM,30,432913.62038231996
+MoGe-2-L (est. focal),Light ESS (NVIDIA),10,144404.18502140002
+MoGe-2-L (est. focal),Light ESS (NVIDIA),30,433212.5550642
+MoGe-2-L (GT focal),ESS (NVIDIA),10,6086.7832957
+MoGe-2-L (GT focal),ESS (NVIDIA),30,18260.3498871
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,4314.709284
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,12944.127852
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,1856.8758350000005
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,5570.627505000001
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,10,-6992.633344999998
+MoGe-2-L (GT focal),Fast-FoundationStereo 20-30-48,30,-20977.900035
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,2877.1356350000005
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,8631.406905
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,-1375.9112099999998
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,-4127.733629999999
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,10,-16390.329735000003
+MoGe-2-L (GT focal),Fast-FoundationStereo 23-36-37,30,-49170.98920500001
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,2876.595815
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,8629.787445
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,-1380.7395999999997
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,-4142.2188
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,10,-16459.336725
+MoGe-2-L (GT focal),C-Fast-FoundationStereo,30,-49378.010175
+MoGe-2-L (GT focal),libSGM,10,3328.6569177200004
+MoGe-2-L (GT focal),libSGM,30,9985.970753160002
+MoGe-2-L (GT focal),libSGM,10,5592.921111320001
+MoGe-2-L (GT focal),libSGM,30,16778.763333960003
+MoGe-2-L (GT focal),libSGM,10,6161.228252440001
+MoGe-2-L (GT focal),libSGM,30,18483.68475732
+MoGe-2-L (GT focal),Light ESS (NVIDIA),10,6260.873146399999
+MoGe-2-L (GT focal),Light ESS (NVIDIA),30,18782.619439200003
+MoGe-2-L (est. focal),ESS (NVIDIA),10,6086.7832957
+MoGe-2-L (est. focal),ESS (NVIDIA),30,18260.3498871
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,4314.709284
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,12944.127852
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,1856.8758350000005
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,5570.627505000001
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,10,-6992.633344999998
+MoGe-2-L (est. focal),Fast-FoundationStereo 20-30-48,30,-20977.900035
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,2877.1356350000005
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,8631.406905
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,-1375.9112099999998
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,-4127.733629999999
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,10,-16390.329735000003
+MoGe-2-L (est. focal),Fast-FoundationStereo 23-36-37,30,-49170.98920500001
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,2876.595815
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,8629.787445
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,-1380.7395999999997
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,-4142.2188
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,10,-16459.336725
+MoGe-2-L (est. focal),C-Fast-FoundationStereo,30,-49378.010175
+MoGe-2-L (est. focal),libSGM,10,3328.6569177200004
+MoGe-2-L (est. focal),libSGM,30,9985.970753160002
+MoGe-2-L (est. focal),libSGM,10,5592.921111320001
+MoGe-2-L (est. focal),libSGM,30,16778.763333960003
+MoGe-2-L (est. focal),libSGM,10,6161.228252440001
+MoGe-2-L (est. focal),libSGM,30,18483.68475732
+MoGe-2-L (est. focal),Light ESS (NVIDIA),10,6260.873146399999
+MoGe-2-L (est. focal),Light ESS (NVIDIA),30,18782.619439200003
+MoGe-2-S (GT focal),ESS (NVIDIA),10,12299.6166607
+MoGe-2-S (GT focal),ESS (NVIDIA),30,36898.84998209999
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,10527.542649
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,31582.627947
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,8069.709199999999
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,24209.1276
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-779.7999800000002
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-2339.399940000001
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,9089.969
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,27269.906999999996
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,4836.922154999999
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,14510.766465
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-10177.49637
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-30532.489110000006
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,9089.42918
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,27268.287539999998
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,4832.093765
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,14496.281294999997
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,-10246.503359999999
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,-30739.51008
+MoGe-2-S (GT focal),libSGM,10,9541.490282719999
+MoGe-2-S (GT focal),libSGM,30,28624.47084816
+MoGe-2-S (GT focal),libSGM,10,11805.75447632
+MoGe-2-S (GT focal),libSGM,30,35417.26342896
+MoGe-2-S (GT focal),libSGM,10,12374.061617439998
+MoGe-2-S (GT focal),libSGM,30,37122.18485232
+MoGe-2-S (GT focal),Light ESS (NVIDIA),10,12473.7065114
+MoGe-2-S (GT focal),Light ESS (NVIDIA),30,37421.1195342
+MoGe-2-S (est. focal),ESS (NVIDIA),10,12299.6166607
+MoGe-2-S (est. focal),ESS (NVIDIA),30,36898.84998209999
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,10527.542649
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,31582.627947
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,8069.709199999999
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,24209.1276
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,-779.7999800000002
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,-2339.399940000001
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,9089.969
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,27269.906999999996
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,4836.922154999999
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,14510.766465
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,-10177.49637
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,-30532.489110000006
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,9089.42918
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,27268.287539999998
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,4832.093765
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,14496.281294999997
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,-10246.503359999999
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,-30739.51008
+MoGe-2-S (est. focal),libSGM,10,9541.490282719999
+MoGe-2-S (est. focal),libSGM,30,28624.47084816
+MoGe-2-S (est. focal),libSGM,10,11805.75447632
+MoGe-2-S (est. focal),libSGM,30,35417.26342896
+MoGe-2-S (est. focal),libSGM,10,12374.061617439998
+MoGe-2-S (est. focal),libSGM,30,37122.18485232
+MoGe-2-S (est. focal),Light ESS (NVIDIA),10,12473.7065114
+MoGe-2-S (est. focal),Light ESS (NVIDIA),30,37421.1195342
+MoGe-2-S (GT focal),ESS (NVIDIA),10,35088.83772070001
+MoGe-2-S (GT focal),ESS (NVIDIA),30,105266.51316210002
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,33316.763709
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,99950.29112699999
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,30858.930260000005
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,92576.79078000001
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,22009.42108
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,66028.26324
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,31879.190060000008
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,95637.57018000001
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,27626.143215000007
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,82878.42964500001
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,12611.724690000003
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,37835.17407000001
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,31878.65024000001
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,95635.95072000001
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,27621.314825000005
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,82863.94447500001
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,12542.717700000005
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,37628.15310000001
+MoGe-2-S (GT focal),libSGM,10,32330.711342720006
+MoGe-2-S (GT focal),libSGM,30,96992.13402816001
+MoGe-2-S (GT focal),libSGM,10,34594.97553632
+MoGe-2-S (GT focal),libSGM,30,103784.92660896003
+MoGe-2-S (GT focal),libSGM,10,35163.28267744
+MoGe-2-S (GT focal),libSGM,30,105489.84803232
+MoGe-2-S (GT focal),Light ESS (NVIDIA),10,35262.9275714
+MoGe-2-S (GT focal),Light ESS (NVIDIA),30,105788.7827142
+MoGe-2-S (est. focal),ESS (NVIDIA),10,35088.83772070001
+MoGe-2-S (est. focal),ESS (NVIDIA),30,105266.51316210002
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,33316.763709
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,99950.29112699999
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,30858.930260000005
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,92576.79078000001
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,22009.42108
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,66028.26324
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,31879.190060000008
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,95637.57018000001
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,27626.143215000007
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,82878.42964500001
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,12611.724690000003
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,37835.17407000001
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,31878.65024000001
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,95635.95072000001
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,27621.314825000005
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,82863.94447500001
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,12542.717700000005
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,37628.15310000001
+MoGe-2-S (est. focal),libSGM,10,32330.711342720006
+MoGe-2-S (est. focal),libSGM,30,96992.13402816001
+MoGe-2-S (est. focal),libSGM,10,34594.97553632
+MoGe-2-S (est. focal),libSGM,30,103784.92660896003
+MoGe-2-S (est. focal),libSGM,10,35163.28267744
+MoGe-2-S (est. focal),libSGM,30,105489.84803232
+MoGe-2-S (est. focal),Light ESS (NVIDIA),10,35262.9275714
+MoGe-2-S (est. focal),Light ESS (NVIDIA),30,105788.7827142
+MoGe-2-S (GT focal),ESS (NVIDIA),10,1918.9725292000003
+MoGe-2-S (GT focal),ESS (NVIDIA),30,5756.9175876
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,146.89851750000014
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,440.69555250000036
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-2310.9349315
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-6932.8047945
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,10,-11160.4441115
+MoGe-2-S (GT focal),Fast-FoundationStereo 20-30-48,30,-33481.332334499995
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-1290.6751315000001
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-3872.0253945
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-5543.7219765
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-16631.1659295
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,10,-20558.140501500002
+MoGe-2-S (GT focal),Fast-FoundationStereo 23-36-37,30,-61674.42150450001
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,-1291.2149515
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,-3873.6448545
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,-5548.5503665
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,-16645.6510995
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,10,-20627.1474915
+MoGe-2-S (GT focal),C-Fast-FoundationStereo,30,-61881.4424745
+MoGe-2-S (GT focal),libSGM,10,-839.1538487799999
+MoGe-2-S (GT focal),libSGM,30,-2517.46154634
+MoGe-2-S (GT focal),libSGM,10,1425.11034482
+MoGe-2-S (GT focal),libSGM,30,4275.3310344599995
+MoGe-2-S (GT focal),libSGM,10,1993.41748594
+MoGe-2-S (GT focal),libSGM,30,5980.25245782
+MoGe-2-S (GT focal),Light ESS (NVIDIA),10,2093.0623799
+MoGe-2-S (GT focal),Light ESS (NVIDIA),30,6279.1871397
+MoGe-2-S (est. focal),ESS (NVIDIA),10,1918.9725292000003
+MoGe-2-S (est. focal),ESS (NVIDIA),30,5756.9175876
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,146.89851750000014
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,440.69555250000036
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,-2310.9349315
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,-6932.8047945
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,10,-11160.4441115
+MoGe-2-S (est. focal),Fast-FoundationStereo 20-30-48,30,-33481.332334499995
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,-1290.6751315000001
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,-3872.0253945
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,-5543.7219765
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,-16631.1659295
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,10,-20558.140501500002
+MoGe-2-S (est. focal),Fast-FoundationStereo 23-36-37,30,-61674.42150450001
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,-1291.2149515
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,-3873.6448545
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,-5548.5503665
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,-16645.6510995
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,10,-20627.1474915
+MoGe-2-S (est. focal),C-Fast-FoundationStereo,30,-61881.4424745
+MoGe-2-S (est. focal),libSGM,10,-839.1538487799999
+MoGe-2-S (est. focal),libSGM,30,-2517.46154634
+MoGe-2-S (est. focal),libSGM,10,1425.11034482
+MoGe-2-S (est. focal),libSGM,30,4275.3310344599995
+MoGe-2-S (est. focal),libSGM,10,1993.41748594
+MoGe-2-S (est. focal),libSGM,30,5980.25245782
+MoGe-2-S (est. focal),Light ESS (NVIDIA),10,2093.0623799
+MoGe-2-S (est. focal),Light ESS (NVIDIA),30,6279.1871397
+UniDepth V2-B (GT intrinsics),ESS (NVIDIA),10,17124.4378507
+UniDepth V2-B (GT intrinsics),ESS (NVIDIA),30,51373.3135521
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,15352.363839
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,46057.09151699999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,12894.530389999998
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,38683.59116999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,4045.0212099999985
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,12135.063629999997
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,13914.79019
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,41744.37056999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,9661.743344999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,28985.230034999997
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-5352.675180000002
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-16058.02554000001
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,13914.250369999998
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,41742.75111
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,9656.914955
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,28970.744864999997
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,-5421.68217
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,-16265.046510000004
+UniDepth V2-B (GT intrinsics),libSGM,10,14366.311472719999
+UniDepth V2-B (GT intrinsics),libSGM,30,43098.934418159995
+UniDepth V2-B (GT intrinsics),libSGM,10,16630.575666319997
+UniDepth V2-B (GT intrinsics),libSGM,30,49891.726998959995
+UniDepth V2-B (GT intrinsics),libSGM,10,17198.882807439997
+UniDepth V2-B (GT intrinsics),libSGM,30,51596.648422319995
+UniDepth V2-B (GT intrinsics),Light ESS (NVIDIA),10,17298.5277014
+UniDepth V2-B (GT intrinsics),Light ESS (NVIDIA),30,51895.58310419999
+UniDepth V2-B (GT intrinsics),ESS (NVIDIA),10,69774.6719207
+UniDepth V2-B (GT intrinsics),ESS (NVIDIA),30,209324.01576209997
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,68002.59790899999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,204007.79372699995
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,65544.76445999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,196634.29338
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,56695.25527999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,170085.76583999995
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,66565.02425999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,199695.07277999996
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,62311.977414999994
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,186935.932245
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,47297.55888999999
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,141892.67667
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,66564.48443999999
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,199693.45331999997
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,62307.149025
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,186921.44707499997
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,47228.5519
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,141685.65569999997
+UniDepth V2-B (GT intrinsics),libSGM,10,67016.54554271999
+UniDepth V2-B (GT intrinsics),libSGM,30,201049.63662815996
+UniDepth V2-B (GT intrinsics),libSGM,10,69280.80973631999
+UniDepth V2-B (GT intrinsics),libSGM,30,207842.42920895998
+UniDepth V2-B (GT intrinsics),libSGM,10,69849.11687743998
+UniDepth V2-B (GT intrinsics),libSGM,30,209547.35063231998
+UniDepth V2-B (GT intrinsics),Light ESS (NVIDIA),10,69948.7617714
+UniDepth V2-B (GT intrinsics),Light ESS (NVIDIA),30,209846.28531419995
+UniDepth V2-B (GT intrinsics),ESS (NVIDIA),10,2290.9549936999997
+UniDepth V2-B (GT intrinsics),ESS (NVIDIA),30,6872.8649811
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,518.880982
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,1556.642946
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-1938.952467
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-5816.857401
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-10788.461647
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-32365.384941
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-918.6926670000003
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-2756.0780010000003
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-5171.739512
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-15515.218536
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-20186.158037
+UniDepth V2-B (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-60558.47411100001
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,-919.2324870000001
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,-2757.6974610000007
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,-5176.567902
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,-15529.703706
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,10,-20255.165027
+UniDepth V2-B (GT intrinsics),C-Fast-FoundationStereo,30,-60765.495080999994
+UniDepth V2-B (GT intrinsics),libSGM,10,-467.1713842800001
+UniDepth V2-B (GT intrinsics),libSGM,30,-1401.5141528400004
+UniDepth V2-B (GT intrinsics),libSGM,10,1797.0928093199998
+UniDepth V2-B (GT intrinsics),libSGM,30,5391.278427959999
+UniDepth V2-B (GT intrinsics),libSGM,10,2365.3999504399994
+UniDepth V2-B (GT intrinsics),libSGM,30,7096.199851319999
+UniDepth V2-B (GT intrinsics),Light ESS (NVIDIA),10,2465.0448444
+UniDepth V2-B (GT intrinsics),Light ESS (NVIDIA),30,7395.134533199999
+UniDepth V2-L (GT intrinsics),ESS (NVIDIA),10,37232.2230207
+UniDepth V2-L (GT intrinsics),ESS (NVIDIA),30,111696.6690621
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,35460.14900899999
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,106380.447027
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,33002.315559999995
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,99006.94668
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,24152.806379999995
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,72458.41913999998
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,34022.57536
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,102067.72607999998
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,29769.528514999998
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,89308.585545
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,14755.109989999995
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,44265.329969999984
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,34022.03554
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,102066.10661999998
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,29764.700125
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,89294.100375
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,14686.102999999997
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,44058.308999999994
+UniDepth V2-L (GT intrinsics),libSGM,10,34474.096642720004
+UniDepth V2-L (GT intrinsics),libSGM,30,103422.28992816
+UniDepth V2-L (GT intrinsics),libSGM,10,36738.36083632
+UniDepth V2-L (GT intrinsics),libSGM,30,110215.08250895998
+UniDepth V2-L (GT intrinsics),libSGM,10,37306.66797743999
+UniDepth V2-L (GT intrinsics),libSGM,30,111920.00393231999
+UniDepth V2-L (GT intrinsics),Light ESS (NVIDIA),10,37406.31287139999
+UniDepth V2-L (GT intrinsics),Light ESS (NVIDIA),30,112218.93861419996
+UniDepth V2-L (GT intrinsics),ESS (NVIDIA),10,151115.94912069998
+UniDepth V2-L (GT intrinsics),ESS (NVIDIA),30,453347.8473620999
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,149343.875109
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,448031.62532700005
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,146886.04166
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,440658.12497999996
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,138036.53248
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,414109.59744
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,147906.30146
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,443718.90437999996
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,143653.25461499998
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,430959.763845
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,128638.83609
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,385916.50827
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,147905.76163999998
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,443717.28492
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,143648.42622499997
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,430945.2786749999
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,128569.8291
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,385709.48730000004
+UniDepth V2-L (GT intrinsics),libSGM,10,148357.82274272
+UniDepth V2-L (GT intrinsics),libSGM,30,445073.46822816
+UniDepth V2-L (GT intrinsics),libSGM,10,150622.08693632
+UniDepth V2-L (GT intrinsics),libSGM,30,451866.26080896
+UniDepth V2-L (GT intrinsics),libSGM,10,151190.39407744
+UniDepth V2-L (GT intrinsics),libSGM,30,453571.18223231996
+UniDepth V2-L (GT intrinsics),Light ESS (NVIDIA),10,151290.0389714
+UniDepth V2-L (GT intrinsics),Light ESS (NVIDIA),30,453870.11691419996
+UniDepth V2-L (GT intrinsics),ESS (NVIDIA),10,5201.2685657
+UniDepth V2-L (GT intrinsics),ESS (NVIDIA),30,15603.805697099999
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,3429.1945539999997
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,10287.583662000001
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,971.361105
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,2914.083315
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-7878.148075000001
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-23634.444225
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,1991.6209049999995
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,5974.862714999999
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-2261.42594
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-6784.277820000001
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-17275.844465
+UniDepth V2-L (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-51827.533395
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,1991.0810849999998
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,5973.243254999999
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,-2266.25433
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,-6798.762990000001
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,10,-17344.851454999996
+UniDepth V2-L (GT intrinsics),C-Fast-FoundationStereo,30,-52034.55436499999
+UniDepth V2-L (GT intrinsics),libSGM,10,2443.14218772
+UniDepth V2-L (GT intrinsics),libSGM,30,7329.426563159999
+UniDepth V2-L (GT intrinsics),libSGM,10,4707.40638132
+UniDepth V2-L (GT intrinsics),libSGM,30,14122.21914396
+UniDepth V2-L (GT intrinsics),libSGM,10,5275.713522439999
+UniDepth V2-L (GT intrinsics),libSGM,30,15827.140567319999
+UniDepth V2-L (GT intrinsics),Light ESS (NVIDIA),10,5375.3584164
+UniDepth V2-L (GT intrinsics),Light ESS (NVIDIA),30,16126.075249200003
+UniDepth V2-S (GT intrinsics),ESS (NVIDIA),10,8112.562810699998
+UniDepth V2-S (GT intrinsics),ESS (NVIDIA),30,24337.688432099996
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,6340.488799
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,19021.466397
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,3882.655349999999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,11647.966049999999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-4966.85383
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-14900.56149
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,4902.915149999998
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,14708.745449999997
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,649.8683049999992
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,1949.6049149999974
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-14364.550220000001
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-43093.65066000001
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,4902.37533
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,14707.125989999999
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,645.039914999999
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,1935.1197449999975
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,-14433.557209999999
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,-43300.67163
+UniDepth V2-S (GT intrinsics),libSGM,10,5354.436432719999
+UniDepth V2-S (GT intrinsics),libSGM,30,16063.309298159997
+UniDepth V2-S (GT intrinsics),libSGM,10,7618.700626319998
+UniDepth V2-S (GT intrinsics),libSGM,30,22856.10187896
+UniDepth V2-S (GT intrinsics),libSGM,10,8187.007767439999
+UniDepth V2-S (GT intrinsics),libSGM,30,24561.023302319994
+UniDepth V2-S (GT intrinsics),Light ESS (NVIDIA),10,8286.6526614
+UniDepth V2-S (GT intrinsics),Light ESS (NVIDIA),30,24859.957984199995
+UniDepth V2-S (GT intrinsics),ESS (NVIDIA),10,33730.290720699995
+UniDepth V2-S (GT intrinsics),ESS (NVIDIA),30,101190.87216210001
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,31958.216709
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,95874.65012699999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,29500.383259999995
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,88501.14978
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,20650.874079999994
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,61952.62223999999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,30520.643059999995
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,91561.92917999999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,26267.596214999998
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,78802.78864499998
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,11253.177689999997
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,33759.53306999999
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,30520.103239999993
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,91560.30971999999
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,26262.767825
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,78788.303475
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,11184.170699999999
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,33552.51209999999
+UniDepth V2-S (GT intrinsics),libSGM,10,30972.16434272
+UniDepth V2-S (GT intrinsics),libSGM,30,92916.49302816
+UniDepth V2-S (GT intrinsics),libSGM,10,33236.42853632
+UniDepth V2-S (GT intrinsics),libSGM,30,99709.28560896
+UniDepth V2-S (GT intrinsics),libSGM,10,33804.735677439996
+UniDepth V2-S (GT intrinsics),libSGM,30,101414.20703232
+UniDepth V2-S (GT intrinsics),Light ESS (NVIDIA),10,33904.38057139999
+UniDepth V2-S (GT intrinsics),Light ESS (NVIDIA),30,101713.14171419997
+UniDepth V2-S (GT intrinsics),ESS (NVIDIA),10,1016.0860916999999
+UniDepth V2-S (GT intrinsics),ESS (NVIDIA),30,3048.2582750999995
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-755.9879199999999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-2267.96376
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-3213.821369
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-9641.464107
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,10,-12063.330549
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 20-30-48,30,-36189.991646999995
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-2193.561569
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-6580.684707
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-6446.608413999999
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-19339.825242
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,10,-21461.026939
+UniDepth V2-S (GT intrinsics),Fast-FoundationStereo 23-36-37,30,-64383.080817
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,-2194.1013890000004
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,-6582.304167
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,-6451.436804
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,-19354.310412
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,10,-21530.033928999997
+UniDepth V2-S (GT intrinsics),C-Fast-FoundationStereo,30,-64590.10178700001
+UniDepth V2-S (GT intrinsics),libSGM,10,-1742.0402862800001
+UniDepth V2-S (GT intrinsics),libSGM,30,-5226.12085884
+UniDepth V2-S (GT intrinsics),libSGM,10,522.2239073199997
+UniDepth V2-S (GT intrinsics),libSGM,30,1566.6717219599993
+UniDepth V2-S (GT intrinsics),libSGM,10,1090.53104844
+UniDepth V2-S (GT intrinsics),libSGM,30,3271.5931453199996
+UniDepth V2-S (GT intrinsics),Light ESS (NVIDIA),10,1190.1759423999997
+UniDepth V2-S (GT intrinsics),Light ESS (NVIDIA),30,3570.5278272

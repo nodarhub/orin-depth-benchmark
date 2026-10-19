@@ -1,0 +1,21 @@
+{
+ "method": "libsgm_quarter_4path_p1_3_p2_224",
+ "gpu_ms_median": 6.139744,
+ "gpu_ms_p90": 6.491456,
+ "gpu_span_ms_median": 6.56512,
+ "loop_fps": 133.2548188138461,
+ "VDD_GPU_SOC_mW": 28633.33125,
+ "VDD_CPU_CV_mW": 1445.975,
+ "VIN_SYS_5V0_mW": 9672.15,
+ "SOC_mW": 30079.306249999998,
+ "gpu_util": 78.62121212121212,
+ "throughput_fps": 162.8732403175116,
+ "dyn_energy_mJ": 182.08423618863347,
+ "idle": {
+  "VDD_GPU_SOC_mW": 4582.478260869565,
+  "VDD_CPU_CV_mW": 1233.2260869565218,
+  "VIN_SYS_5V0_mW": 4288.48695652174,
+  "SOC_mW": 5815.704347826087,
+  "gpu_util": 0.0
+ }
+}

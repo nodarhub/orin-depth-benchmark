@@ -1,0 +1,13 @@
+\begin{tabular}{@{}llll@{}}
+\toprule
+Budget & Best stereo & Best monocular & Best monocular, oracle scale \\
+ & AbsRel (GPU time) & AbsRel (GPU time) & AbsRel (GPU time) \\
+\midrule
+30 fps & ESS (NVIDIA), 576$\times$960: 0.70\% (9\,ms) & Depth Anything 3 Metric-L, 350$\times$504: 12.34\% (33\,ms) & Depth Anything 3 Metric-L, 350$\times$504: 5.97\% (33\,ms) \\
+10 fps & Fast-FoundationStereo 20-30-48, 384$\times$576: 0.64\% (68\,ms) & Depth Anything 3 Metric-L, 350$\times$504: 12.34\% (33\,ms) & UniDepth V2-B, 644$\times$938: 3.90\% (85\,ms) \\
+1 fps & C-Fast-FoundationStereo, 768$\times$1152: 0.33\% (760\,ms) & Depth Pro, 1536$\times$1536: 11.98\% (803\,ms) & MoGe-2-L, 700$\times$1008: 3.78\% (212\,ms) \\
+no limit & C-Fast-FoundationStereo, 768$\times$1152: 0.33\% (760\,ms) & Depth Pro, 1536$\times$1536: 11.98\% (803\,ms) & MoGe-2-L, 700$\times$1008: 3.78\% (212\,ms) \\
+\midrule
+lowest GPU, open source & libSGM, $\approx$497$\times$720: 1.18\% (6\,ms) & Depth Anything V2-S (native), 518$\times$770: 29.88\% (12\,ms) & Depth Anything V2-S (native), 518$\times$770: 8.93\% (12\,ms) \\
+\bottomrule
+\end{tabular}
