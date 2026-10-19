@@ -4,6 +4,7 @@
 \usepackage{lmodern}
 \usepackage{amsmath,amssymb}
 \usepackage{graphicx}
+\usepackage{adjustbox}
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{siunitx}
@@ -770,7 +771,7 @@ Depth Anything~3, MoGe-2, Metric3D v2 and UniDepth V2 is from FP32 PyTorch and t
 FP16 engines (\cref{sec:fp16}).}
 \label{tab:main}
 \small
-\resizebox{\textwidth}{!}{\input{tables/v2_main.tex}}
+\adjustbox{max width=\textwidth, max totalheight=0.88\textheight}{\input{tables/v2_main.tex}}
 \end{table*}
 
 \clearpage
