@@ -450,7 +450,8 @@ mostly at thin structures such as the spokes of the wheel. libSGM at full resolu
 does not interpolate across an edge but rejects ambiguous pixels in its left--right check, so it returns
 only 45\% of the edge pixels, and its surfaces are noisier. At quarter resolution libSGM has 9.4\% flying
 points, more than Fast-FoundationStereo. ESS has 3.8\%, similar to Fast-FoundationStereo, and Light
-ESS, at a quarter of ESS's input pixels, 8.8\%, similar to libSGM at quarter resolution.
+ESS, at a quarter of ESS's input pixels, 8.8\%, similar to libSGM at quarter resolution. \Cref{fig:edges_stereo} in \cref{app:stereo} shows the same
+edges for the fast stereo configurations only.
 
 AbsRel registers almost none of this. MoGe-2-L's AbsRel is 7.5\% at edge pixels and 3.7\% elsewhere,
 but with 1.7\% of the pixels at edges, its flying points add less than 0.1 percentage points to its
@@ -464,7 +465,8 @@ at the cost of missing pixels, a trade-off that a mean error over predicted pixe
 \label{sec:qualitative}
 \Cref{fig:depthmaps} shows depth and error maps on two scenes for every
 method at full resolution, or at its maximum or fixed input size, with the monocular networks after
-oracle scaling, i.e.\ with their global scale error removed. Stereo errors are mostly below 1\% and
+oracle scaling, i.e.\ with their global scale error removed. \Cref{fig:stereo_gallery} in \cref{app:stereo} shows
+all 10 scenes for the fast stereo configurations. Stereo errors are mostly below 1\% and
 concentrate at depth discontinuities and thin structures (leaves, straw); libSGM leaves holes there and
 on low-texture walls, and its full-resolution output is speckled where the left--right check rejects
 isolated pixels. The oracle-scaled monocular depth maps look plausible and correctly ordered, yet keep
@@ -820,5 +822,38 @@ Output & 16-bit, host-to-host (copies included in timing) & \\
 \bottomrule
 \end{tabular}}
 \end{table}
+
+\clearpage
+\section{Fast stereo configurations}
+\label{app:stereo}
+\Cref{fig:edges_stereo} shows the point clouds of the fast stereo configurations at the object edges
+of \cref{fig:edges}, and \cref{fig:stereo_gallery} their depth maps on all 10 evaluation scenes.
+
+\begin{figure*}[!t]
+\centering
+\includegraphics[width=\linewidth]{figures/edge_pointclouds_stereo.pdf}
+\caption{Point clouds at the object edges of \cref{fig:edges}, seen from above, for the fast stereo
+configurations of \cref{fig:stereo_gallery}: Light ESS, ESS, libSGM at quarter, half and full
+resolution, and Fast-FoundationStereo 20-30-48 at $384\times576$. Grey: ground truth; each method is shown at its own
+output resolution (one point per output pixel). ESS and Fast-FoundationStereo give clean steps at the
+chair slats; libSGM's surfaces are noisier and, at all three resolutions, it places a streak of points
+between the motorcycle's wheel and the background.}
+\label{fig:edges_stereo}
+\end{figure*}
+
+\begin{figure*}[p]
+\centering
+\includegraphics[width=\textwidth,height=0.88\textheight,keepaspectratio]{figures/stereo_gallery.pdf}
+\caption{Depth maps of the fast stereo configurations on the 10 evaluation scenes: Light ESS, ESS,
+libSGM at quarter, half and full resolution, and Fast-FoundationStereo 20-30-48 at its smallest input
+($384\times576$). One colour scale per scene (1st--99th percentile of the ground-truth depth); grey:
+no ground truth or no prediction (libSGM's holes are not filled here). The number in each panel is the
+scene's AbsRel over predicted non-occluded pixels; column titles give the GPU time per frame. The
+networks are dense; libSGM leaves holes on low-texture surfaces such as the umbrellas and walls, but
+at full resolution it has the lowest AbsRel on 7 of the 10 scenes.}
+\label{fig:stereo_gallery}
+\end{figure*}
+
+
 
 \end{document}

@@ -13,6 +13,7 @@ JUMP. A predicted depth at an edge pixel is "flying" if it lies more than 5% awa
   results/v2/edges.csv               per scene and method
   paper/tables/edges.tex             means over the 10 scenes
   paper/figures/edge_pointclouds.{pdf,png}   top-down point clouds of a band of rows across an edge
+  paper/figures/edge_pointclouds_stereo.{pdf,png}   the same for the fast stereo configurations
 """
 import json
 import os
@@ -48,7 +49,13 @@ METHODS = [("libSGM, full res.", tuned_tag(1), "disp", "preds"),
            ("Metric3D v2-L, 616×1064", "metric3d_vit_large_616x1064_fp32", "depth", "native"),
            ("UniDepth V2-L, 644×938", "unidepthv2_vitl14_native_fp32", "depth", "native")]
 # figure: columns and the edge crop (scene, first row, last row, first col, last col) of the band shown
-FIG_METHODS = [0, 2, 8, 7, 6]  # libSGM full, FFS 23-36-37, MoGe-2-L, DA3, DA V2-L
+FIG_METHODS = [METHODS[i] for i in (0, 2, 8, 7, 6)]  # libSGM full, FFS 23-36-37, MoGe-2-L, DA3, DA V2-L
+# second figure: the fast stereo configurations only
+STEREO_FIG_METHODS = [METHODS[10], METHODS[9],
+                      ("libSGM, quarter res.", tuned_tag(4), "disp", "preds"),
+                      ("libSGM, half res.", tuned_tag(2), "disp", "preds"),
+                      METHODS[0],
+                      ("FFS 20-30-48, 384×576", "ffs_20-30-48_it4_384x576", "disp", "native")]
 CROPS = [("Adirondack", 380, 420, 1750, 2800), ("Motorcycle", 1280, 1320, 1950, 2800)]
 
 
@@ -85,7 +92,8 @@ def main():
     scenes = json.load(open(os.path.join(ROOT, "results/v2/scene_sets.json")))["subset_lt255"]
     if not a.figure_only:
         metrics(data, scenes)
-    figure(data)
+    figure(data, FIG_METHODS, "edge_pointclouds")
+    figure(data, STEREO_FIG_METHODS, "edge_pointclouds_stereo")
 
 
 def metrics(data, scenes):
@@ -121,10 +129,10 @@ def metrics(data, scenes):
     print(f"edge pixels: {df.drop_duplicates('scene').edge_share.mean():.1f}% of the non-occluded GT")
 
 
-def figure(data):
+def figure(data, methods, out):
     # ---- figure: top-down view (lateral position X vs depth Z) of a band of rows across an edge ----
     plt.rcParams.update({"font.size": 7, "figure.dpi": 200})
-    cols = [("Ground truth", None)] + [(METHODS[i][0], METHODS[i]) for i in FIG_METHODS]
+    cols = [("Ground truth", None)] + [(m[0], m) for m in methods]
     # first column: the rectified left image with the analysed band of rows boxed
     # columns: image | spacer (room for the depth axis) | point clouds
     fig, axes_all = plt.subplots(len(CROPS), len(cols) + 2, figsize=(7.2, 2.1 * len(CROPS) + 0.3),
@@ -199,7 +207,7 @@ def figure(data):
              ha="center", fontsize=6)
     fig.subplots_adjust(left=0.03, right=0.995, top=0.86, bottom=0.07, hspace=0.12)
     for ext in ("pdf", "png"):
-        fig.savefig(os.path.join(ROOT, f"paper/figures/edge_pointclouds.{ext}"), dpi=300)
+        fig.savefig(os.path.join(ROOT, f"paper/figures/{out}.{ext}"), dpi=300)
     plt.close(fig)
 
 

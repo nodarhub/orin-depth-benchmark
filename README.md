@@ -167,7 +167,8 @@ scripts/
   make_figures_v2.py      accuracy table, accuracy-vs-GPU-time figure, cost model, README table
   make_recommendations.py best configuration per frame-rate budget (paper Table 2)
   make_scaling_figure.py  resolution-scaling figure + monocular scale-drift table
-  edge_analysis.py        depth discontinuities: flying points + point-cloud figure
+  edge_analysis.py        depth discontinuities: flying points + point-cloud figures (all methods; fast stereo)
+  make_stereo_gallery.py  appendix figure: fast stereo depth maps on all 10 scenes
   make_depth_figure.py    depth / error-map figures (--set main: full resolution, --set lowres)
   make_dataset_table.py   appendix scene table with thumbnails
   run_all.sh              the whole pipeline
